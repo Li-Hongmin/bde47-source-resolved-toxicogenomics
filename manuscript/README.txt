@@ -1,6 +1,6 @@
 # BDE-47 Communications Biology LaTeX manuscript v1.5
 
-Generated: `2026-05-25T21:27:49.018353+09:00`
+Generated: `2026-05-25T21:31:40.372009+09:00`
 
 This package uses native LaTeX as the source format. It does not use Markdown
 as the manuscript source. The combined PDF contains the main manuscript and

@@ -92,7 +92,12 @@ def prepare_package() -> None:
         shutil.copy2(evidence_gate_src, OUT_DIR / "proteome_contrast_evidence_level_gate.tsv")
     claim_src = V08_DIR / "claim_evidence_boundary_map_v0_6.tsv"
     if claim_src.exists():
-        shutil.copy2(claim_src, OUT_DIR / "claim_evidence_boundary_map.tsv")
+        claim_dst = OUT_DIR / "claim_evidence_boundary_map.tsv"
+        shutil.copy2(claim_src, claim_dst)
+        claim_text = claim_dst.read_text()
+        claim_text = claim_text.replace("Figure 4 target direction", "Figure 3 target direction")
+        claim_text = claim_text.replace("5 uM, 39 h", "5 µM, 39 h")
+        claim_dst.write_text(claim_text)
     redraw_review_figures()
     retitle_png_figure(
         FIG_DIR / "figure2_exosome_cargo_block.png",
