@@ -1,0 +1,36 @@
+gene	in_31675489_CTD	exosome_direction	exosome_fc	in_31675489_supplement	in_37385330_TableS1	in_37385330_CTD	ctb_positive_conditions	ctb_total_conditions	all_six_up	raw_pilot_recovered	raw_pilot_direction	raw_pilot_log2_delta	raw_pilot_p	main_or_supplement	reason_for_inclusion
+ILK	True	decrease	0.7	True	True	True	6	6	True	True	increase	0.13928898	0.48571429	main_text_contrast	in 31675489 CTD/supplement; exosome decrease; recovered in 37385330 Table S1; CTD-mapped in 37385330; all-six-up; raw-pilot direction-concordant
+NFKB1	True	decrease	0	True	True	True	6	6	True	True	increase	0.13779982	0.37142857	main_text_contrast	in 31675489 CTD/supplement; exosome decrease; recovered in 37385330 Table S1; CTD-mapped in 37385330; all-six-up; raw-pilot direction-concordant
+SNX17	True	decrease	0.3	True	True	True	6	6	True	True	increase	0.1087175	0.9	main_text_contrast	in 31675489 CTD/supplement; exosome decrease; recovered in 37385330 Table S1; CTD-mapped in 37385330; all-six-up; raw-pilot direction-concordant
+MGLL	True	decrease	0.3	True	True	False	6	6	True	True	increase	0.22391491	0.62857143	supplementary_support	all-six-up and raw-pilot direction-concordant, but not CTD-mapped in PMID 37385330
+AARS1	True	decrease	0.7	True	True	False	5	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+ARHGEF7	True	decrease	0.5	True	True	False	5	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+CASP1	True	decrease	0	True	True	False	2	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+CDK2	True	decrease	0.4	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+CYP11A1	True	decrease	0.6	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+FCN1	True	increase	2	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+FCN2	True	increase	2.5	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+FIS1	True	decrease	0.5	True	True	False	5	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+FNIP2	True	decrease	0	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+FUS	True	decrease	0	True	True	False	3	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+GFPT1	True	decrease	0.7	True	True	False	1	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+GMPPB	True	decrease	0.7	True	True	False	2	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+IFIT1	True	decrease	0.5	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+LGMN	True	decrease	0.7	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+MARS1	True	decrease	0.7	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+MMP19	True	decrease	0.7	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+MMRN1	True	increase	2	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+MX1	True	decrease	0.6	True	True	False	3	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+MYO1E	True	decrease	0	True	True	False	3	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+OAS3	True	decrease	0.3	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+PARP14	True	decrease	0	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+PCNA	True	decrease	0.3	True	True	False	2	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+PGM3	True	decrease	0.6	True	True	False	0	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+PRKDC	True	decrease	0.7	True	True	False	2	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+SEC24A	True	decrease	0.7	True	True	False	3	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+SEC24D	True	decrease	0.6	True	True	False	5	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+SNRPA1	True	decrease	0.7	True	True	False	5	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+TGFB1	True	decrease	0	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+VWA5A	True	decrease	0.5	True	False	False	0	0	False	False				not_main_text	not recovered in 37385330 Table S1
+WIPI1	True	decrease	0.7	True	True	False	4	6	False	False				not_main_text	not CTD-mapped in PMID 37385330
+YARS1	True	decrease	0.5	True	True	False	1	6	False	False				not_main_text	not CTD-mapped in PMID 37385330

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="523.919493pt" height="365.51952pt" viewBox="0 0 523.919493 365.51952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-25T21:27:49.594831</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 365.51952 
+L 523.919493 365.51952 
+L 523.919493 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 130.138927 79.687585 
+L 190.647825 79.687585 
+L 190.647825 55.668516 
+L 130.138927 55.668516 
+z
+" clip-path="url(#pd85a5648ea)" style="fill: #f7f7f7; stroke: #222222; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 60.9859 139.735258 
+L 121.494799 139.735258 
+L 121.494799 115.716189 
+L 60.9859 115.716189 
+z
+" clip-path="url(#pd85a5648ea)" style="fill: #fdedec; stroke: #c44e52; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 130.138927 139.735258 
+L 190.647825 139.735258 
+L 190.647825 115.716189 
+L 130.138927 115.716189 
+z
+" clip-path="url(#pd85a5648ea)" style="fill: #e8f2fb; stroke: #2c7fb8; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 199.291954 139.735258 
+L 259.800852 139.735258 
+L 259.800852 115.716189 
+L 199.291954 115.716189 
+z
+" clip-path="url(#pd85a5648ea)" style="fill: #f2f2f2; stroke: #777777; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="160.393376" y="69.502973" transform="rotate(-0 160.393376 69.502973)">BDE-47 exposure</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(62.648084 125.797332)">Placental explant</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(65.564568 133.191301)">exosome cargo</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(127.134079 125.839989)">Primary villous CTB</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(131.219236 133.325832)">cellular proteome</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(196.287106 125.839989)">Primary villous CTB</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(218.851169 133.325832)">mRNA</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 158.607992 80.579009 
+Q 125.818486 96.95048 94.029264 112.82252 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+    <path d="M 97.159759 112.824298 
+L 94.029264 112.82252 
+L 95.908984 110.319191 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 160.393376 81.689602 
+Q 160.393376 96.953747 160.393376 111.099859 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+    <path d="M 161.793376 108.299859 
+L 160.393376 111.099859 
+L 158.993376 108.299859 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 162.17876 80.579009 
+Q 194.968266 96.95048 226.757488 112.82252 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+    <path d="M 224.877769 110.319191 
+L 226.757488 112.82252 
+L 223.626994 112.824298 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="160.393376" y="175.763861" transform="rotate(-0 160.393376 175.763861)">Database signs can compress these readouts into one relation.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="30.731451" y="26.081944" transform="rotate(-0 30.731451 26.081944)">a</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="160.393376" y="34.656598" transform="rotate(-0 160.393376 34.656598)">Placental readout compartments</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 319.344541 85.692352 
+L 362.565183 85.692352 
+L 362.565183 61.673283 
+L 319.344541 61.673283 
+z
+" clip-path="url(#p6604354e63)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 384.175504 85.692352 
+L 427.396145 85.692352 
+L 427.396145 61.673283 
+L 384.175504 61.673283 
+z
+" clip-path="url(#p6604354e63)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 449.006466 85.692352 
+L 492.227108 85.692352 
+L 492.227108 61.673283 
+L 449.006466 61.673283 
+z
+" clip-path="url(#p6604354e63)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 384.175504 145.740025 
+L 427.396145 145.740025 
+L 427.396145 121.720956 
+L 384.175504 121.720956 
+z
+" clip-path="url(#p6604354e63)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(325.595331 71.797084)">CTD sign</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(328.511268 79.282927)">tension</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(393.337856 71.800365)">BDE-47</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(384.593871 79.194334)">prioritization</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(459.140068 71.754427)">source</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(456.034912 79.148396)">mapping</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(391.01309 131.848037)">bounded</text>
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(394.889887 139.242006)">claims</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 364.567408 73.682818 
+Q 373.373339 73.682818 381.061235 73.682818 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+    <path d="M 378.261235 72.282818 
+L 381.061235 73.682818 
+L 378.261235 75.082818 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 429.398371 73.682818 
+Q 438.204301 73.682818 445.892198 73.682818 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+    <path d="M 443.092198 72.282818 
+L 445.892198 73.682818 
+L 443.092198 75.082818 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 468.951563 86.802853 
+Q 443.603789 103.706719 419.186185 119.990274 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+    <path d="M 422.29245 119.60153 
+L 419.186185 119.990274 
+L 420.738949 117.272017 
+" style="fill: none; stroke: #222222; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="410.107889" y="178.766245" transform="rotate(-0 410.107889 178.766245)">CTD locates the problem; primary sources define biology.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="280.445964" y="26.081944" transform="rotate(-0 280.445964 26.081944)">b</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="410.107889" y="34.656598" transform="rotate(-0 410.107889 34.656598)">Source-resolved reconstruction</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_16">
+    <path d="M 75.632658 286.844489 
+L 196.745265 286.844489 
+L 196.745265 258.25036 
+L 75.632658 258.25036 
+z
+" clip-path="url(#p28262bc533)" style="fill: #ffffff; stroke: #e6e6e6; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 224.694329 286.844489 
+L 345.806936 286.844489 
+L 345.806936 258.25036 
+L 224.694329 258.25036 
+z
+" clip-path="url(#p28262bc533)" style="fill: #ffffff; stroke: #e6e6e6; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 373.755999 286.844489 
+L 494.868607 286.844489 
+L 494.868607 258.25036 
+L 373.755999 258.25036 
+z
+" clip-path="url(#p28262bc533)" style="fill: #ffffff; stroke: #e6e6e6; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 75.632658 339.743629 
+L 196.745265 339.743629 
+L 196.745265 311.1495 
+L 75.632658 311.1495 
+z
+" clip-path="url(#p28262bc533)" style="fill: #ffffff; stroke: #e6e6e6; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 224.694329 339.743629 
+L 345.806936 339.743629 
+L 345.806936 311.1495 
+L 224.694329 311.1495 
+z
+" clip-path="url(#p28262bc533)" style="fill: #ffffff; stroke: #e6e6e6; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 373.755999 339.743629 
+L 494.868607 339.743629 
+L 494.868607 311.1495 
+L 373.755999 311.1495 
+z
+" clip-path="url(#p28262bc533)" style="fill: #ffffff; stroke: #e6e6e6; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2c7fb8" x="136.188962" y="270.524467" transform="rotate(-0 136.188962 270.524467)">2,000,000</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="136.188962" y="280.635604" transform="rotate(-0 136.188962 280.635604)">bounded CTD rows scanned</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2c7fb8" x="285.250632" y="270.524467" transform="rotate(-0 285.250632 270.524467)">10,100</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="285.250632" y="280.635604" transform="rotate(-0 285.250632 280.635604)">source-readiness pass rows</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2c7fb8" x="434.312303" y="270.524467" transform="rotate(-0 434.312303 270.524467)">134</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="434.312303" y="280.598104" transform="rotate(-0 434.312303 280.598104)">opposite-direction seed groups</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d95f02" x="136.188962" y="323.423607" transform="rotate(-0 136.188962 323.423607)">55</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="136.188962" y="333.497244" transform="rotate(-0 136.188962 333.497244)">BDE-47 seed groups</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d95f02" x="285.250632" y="323.423607" transform="rotate(-0 285.250632 323.423607)">118</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="285.250632" y="333.534744" transform="rotate(-0 285.250632 333.534744)">BDE-47 seed rows</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d95f02" x="434.312303" y="323.423607" transform="rotate(-0 434.312303 323.423607)">23</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="434.312303" y="333.534744" transform="rotate(-0 434.312303 333.534744)">BDE-47 PubMed records</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #777777" x="285.250632" y="356.900107" transform="rotate(-0 285.250632 356.900107)">The cluster is a prioritization scaffold, not a set of independent discoveries.</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="5.76" y="203.215012" transform="rotate(-0 5.76 203.215012)">c</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="285.250632" y="210.788872" transform="rotate(-0 285.250632 210.788872)">BDE-47 cluster used as the focused reconstruction object</text>
+   </g>
+  </g>
+  <g id="text_30">
+   <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="261.959733" y="11.874937" transform="rotate(-0 261.959733 11.874937)">Figure 1. Source-resolved toxicogenomics links CTD signs to placental readouts</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd85a5648ea">
+   <rect x="52.341772" y="40.656598" width="216.103208" height="150.119181"/>
+  </clipPath>
+  <clipPath id="p6604354e63">
+   <rect x="302.056284" y="40.656598" width="216.103208" height="150.119181"/>
+  </clipPath>
+  <clipPath id="p28262bc533">
+   <rect x="52.341772" y="216.788872" width="465.817721" height="142.970648"/>
+  </clipPath>
+ </defs>
+</svg>

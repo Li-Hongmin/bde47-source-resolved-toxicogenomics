@@ -1,0 +1,43 @@
+{
+  "all_validations": true,
+  "cover_pdf_rendered": true,
+  "generated_at": "2026-05-25T21:27:49.018353+09:00",
+  "markdown_source_used": false,
+  "outputs": {
+    "cover_pdf": "/Users/lihongmin/Documents/AlphaScience \u2014 expertise-guided AI-assisted scientific discovery/reports/bde47_commsbio_manuscript_v1_5_latex/communications_biology_cover_letter_v1_5.pdf",
+    "cover_tex": "/Users/lihongmin/Documents/AlphaScience \u2014 expertise-guided AI-assisted scientific discovery/reports/bde47_commsbio_manuscript_v1_5_latex/communications_biology_cover_letter_v1_5.tex",
+    "pdf": "/Users/lihongmin/Documents/AlphaScience \u2014 expertise-guided AI-assisted scientific discovery/reports/bde47_commsbio_manuscript_v1_5_latex/bde47_commsbio_manuscript_and_supplement_v1_5.pdf",
+    "readme": "/Users/lihongmin/Documents/AlphaScience \u2014 expertise-guided AI-assisted scientific discovery/reports/bde47_commsbio_manuscript_v1_5_latex/README.txt",
+    "status": "/Users/lihongmin/Documents/AlphaScience \u2014 expertise-guided AI-assisted scientific discovery/reports/bde47_commsbio_manuscript_v1_5_latex/latex_build_status_commsbio_v1_5.json",
+    "tex": "/Users/lihongmin/Documents/AlphaScience \u2014 expertise-guided AI-assisted scientific discovery/reports/bde47_commsbio_manuscript_v1_5_latex/bde47_commsbio_manuscript_and_supplement_v1_5.tex"
+  },
+  "pdf_rendered": true,
+  "source_format": "native_latex",
+  "status": "completed",
+  "validations": {
+    "abstract_internal_level_removed": true,
+    "ai_use_statement_present": true,
+    "author_placeholder_removed": true,
+    "claim_boundary_table_version_aligned": true,
+    "communications_biology_title": true,
+    "cover_pdf_rendered": true,
+    "data_code_availability_public_release": true,
+    "dose_units_standardized": true,
+    "dual_correspondence_present": true,
+    "figure4_boundary_retained": true,
+    "figure4_zero_fc_caveat": true,
+    "main_figures_included": true,
+    "main_text_level2_5_removed": true,
+    "methods_reproducibility_expanded": true,
+    "no_markdown_images": true,
+    "pdf_rendered": true,
+    "references_expanded": true,
+    "submission_language_clean": true,
+    "supp_figures_included": true,
+    "supplementary_figures_not_auto_numbered": true,
+    "supplementary_reproducibility_appendix": true,
+    "supplementary_tables_itemized": true,
+    "tex_exists": true,
+    "tokyo_denki_affiliation_present": true
+  }
+}

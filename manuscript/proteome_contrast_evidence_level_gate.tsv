@@ -1,0 +1,5 @@
+gene	manuscript_use	direction_agreement	magnitude_ratio_raw_over_table_s1	magnitude_ok_for_level3	target_only_p	target_p_nominal_ok	raw_bde_detected	raw_bde_total	raw_vehicle_detected	raw_vehicle_total	missingness_ok_for_level3	blocking_reason
+ILK	main_text_contrast	TRUE	0.219825	FALSE	0.48571429	FALSE	3	3	4	4	TRUE	passes_direction_only
+NFKB1	main_text_contrast	TRUE	0.347519	FALSE	0.37142857	FALSE	3	3	4	4	TRUE	passes_direction_only
+SNX17	main_text_contrast	TRUE	0.053063	FALSE	0.9	FALSE	2	3	3	4	FALSE	passes_direction_only
+MGLL	supplementary_support	TRUE	0.924260	TRUE	0.62857143	FALSE	3	3	4	4	TRUE	passes_magnitude_direction

@@ -1,0 +1,6 @@
+claim	evidence	boundary	status
+CTD identifies BDE-47 as a dominant local sign-tension cluster.	10,100 pass rows; 134 seed groups; BDE-47-like cluster with 55 seed groups, 118 rows and 23 PMIDs.	CTD is discovery scaffold only, not mechanism or effect size.	supported
+PMID 31675489 is placenta-derived exosomal cargo, not broad intracellular expression.	Full-text/supplement reclassification; 35/35 CTD-mapped proteins recovered and direction-concordant.	Fold-change direction only; no per-protein p/FDR.	supported
+ILK/NFKB1/SNX17 define compact exosome-down / CTB-proteome-up contrast.	Protein selection tree, all-six-up Table S1 direction, directional rarity 0.000417833.	Descriptive compact contrast, not independent target discovery p-value.	supported with boundary
+Raw pilot supports Figure 4 target direction.	DIA-NN target recovery for ILK, NFKB1, SNX17 and MGLL at 5 uM, 39 h.	Level 2.5 only; not author-level DE, significance, magnitude replication or full raw reconstruction.	supported with boundary
+GSE104896 does not mirror uniform cellular mRNA depletion.	Positive fraction 0.677 vs matched-null 0.504; mean log2 delta 0.048 vs null 0.005.	Boundary check only; not individual-gene DE discovery.	supported with boundary

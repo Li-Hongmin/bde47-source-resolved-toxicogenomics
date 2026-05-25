@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="523.91945pt" height="365.51952pt" viewBox="0 0 523.91945 365.51952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-25T21:27:50.411711</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 365.51952 
+L 523.91945 365.51952 
+L 523.91945 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 52.341768 172.477576 
+L 263.686535 172.477576 
+L 263.686535 38.409608 
+L 52.341768 38.409608 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 61.948348 172.477576 
+L 147.340173 172.477576 
+L 147.340173 81.713562 
+L 61.948348 81.713562 
+z
+" clip-path="url(#pa7b804574e)" style="fill: #2c7fb8; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 168.68813 172.477576 
+L 254.079955 172.477576 
+L 254.079955 104.90732 
+L 168.68813 104.90732 
+z
+" clip-path="url(#pa7b804574e)" style="fill: #e6e6e6; stroke: #777777; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m499d21074b" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m499d21074b" x="104.644261" y="172.477576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(90.443558 184.488045)">exosome</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(96.473948 191.891858)">block</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m499d21074b" x="211.384042" y="172.477576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(197.960995 184.488045)">matched</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(205.936074 191.891858)">null</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path id="m21c093739b" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m21c093739b" x="52.341768" y="172.477576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="45.341768" y="174.982811" transform="rotate(-0 45.341768 174.982811)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m21c093739b" x="52.341768" y="145.663983" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="45.341768" y="148.169217" transform="rotate(-0 45.341768 148.169217)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m21c093739b" x="52.341768" y="118.850389" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="45.341768" y="121.355623" transform="rotate(-0 45.341768 121.355623)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m21c093739b" x="52.341768" y="92.036795" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="45.341768" y="94.54203" transform="rotate(-0 45.341768 94.54203)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m21c093739b" x="52.341768" y="65.223202" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="45.341768" y="67.728436" transform="rotate(-0 45.341768 67.728436)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m21c093739b" x="52.341768" y="38.409608" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="45.341768" y="40.914842" transform="rotate(-0 45.341768 40.914842)">1.0</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="30.220518" y="105.443592" transform="rotate(-90 30.220518 105.443592)">Fraction with positive CTB mRNA delta</text>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 52.341768 172.477576 
+L 52.341768 38.409608 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 52.341768 172.477576 
+L 263.686535 172.477576 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="31.207291" y="26.082124" transform="rotate(-0 31.207291 26.082124)">a</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="158.014152" y="32.409608" transform="rotate(-0 158.014152 32.409608)">Direction fraction</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 306.814683 172.477576 
+L 518.15945 172.477576 
+L 518.15945 38.409608 
+L 306.814683 38.409608 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 316.421263 172.477576 
+L 401.813088 172.477576 
+L 401.813088 44.793797 
+L 316.421263 44.793797 
+z
+" clip-path="url(#p1211b6c3fa)" style="fill: #2c7fb8; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 423.161044 172.477576 
+L 508.552869 172.477576 
+L 508.552869 159.177183 
+L 423.161044 159.177183 
+z
+" clip-path="url(#p1211b6c3fa)" style="fill: #e6e6e6; stroke: #777777; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m499d21074b" x="359.117175" y="172.477576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(344.916472 184.488045)">exosome</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(350.946863 191.891858)">block</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m499d21074b" x="465.856957" y="172.477576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(452.43391 184.488045)">matched</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(460.408988 191.891858)">null</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m21c093739b" x="306.814683" y="172.477576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="299.814683" y="174.982811" transform="rotate(-0 299.814683 174.982811)">0.00</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m21c093739b" x="306.814683" y="145.876789" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="299.814683" y="148.382023" transform="rotate(-0 299.814683 148.382023)">0.01</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m21c093739b" x="306.814683" y="119.276002" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="299.814683" y="121.781236" transform="rotate(-0 299.814683 121.781236)">0.02</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m21c093739b" x="306.814683" y="92.675214" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="299.814683" y="95.180449" transform="rotate(-0 299.814683 95.180449)">0.03</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m21c093739b" x="306.814683" y="66.074427" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="299.814683" y="68.579661" transform="rotate(-0 299.814683 68.579661)">0.04</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m21c093739b" x="306.814683" y="39.473639" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="299.814683" y="41.978874" transform="rotate(-0 299.814683 41.978874)">0.05</text>
+     </g>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="280.718745" y="105.443592" transform="rotate(-90 280.718745 105.443592)">Mean paired log2 delta</text>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 306.814683 172.477576 
+L 518.15945 172.477576 
+" clip-path="url(#p1211b6c3fa)" style="fill: none; stroke: #222222; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 306.814683 172.477576 
+L 306.814683 38.409608 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 306.814683 172.477576 
+L 518.15945 172.477576 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="285.680206" y="26.082124" transform="rotate(-0 285.680206 26.082124)">b</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="412.487066" y="32.409608" transform="rotate(-0 412.487066 32.409608)">Module-level mRNA boundary</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 75.632652 316.120396 
+L 196.745249 316.120396 
+L 196.745249 285.150696 
+L 75.632652 285.150696 
+z
+" clip-path="url(#p1dfdb11fce)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 224.69431 316.120396 
+L 345.806907 316.120396 
+L 345.806907 285.150696 
+L 224.69431 285.150696 
+z
+" clip-path="url(#p1dfdb11fce)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 373.755968 316.120396 
+L 494.868565 316.120396 
+L 494.868565 285.150696 
+L 373.755968 285.150696 
+z
+" clip-path="url(#p1dfdb11fce)" style="fill: #f7f7f7; stroke: #2c7fb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="285.250609" y="235.880717" transform="rotate(-0 285.250609 235.880717)">BDE-47 placental evidence</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 283.289989 244.71583 
+Q 210.720353 259.107879 139.35706 273.260685 
+" style="fill: none; stroke: #222222; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 142.375914 274.089251 
+L 139.35706 273.260685 
+L 141.831225 271.342741 
+" style="fill: none; stroke: #222222; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="136.188951" y="298.180999" transform="rotate(-0 136.188951 298.180999)">Exosome cargo</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(98.200474 308.639085)">decreased representation</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(115.707888 315.725592)">or remodeling</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 285.250609 246.329795 
+Q 285.250609 259.108553 285.250609 270.657474 
+" style="fill: none; stroke: #222222; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 286.650609 267.857474 
+L 285.250609 270.657474 
+L 283.850609 267.857474 
+" style="fill: none; stroke: #222222; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="285.250609" y="298.269592" transform="rotate(-0 285.250609 298.269592)">CTB proteome</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(244.65489 308.639085)">compact higher-abundance</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(259.369765 315.804107)">Table S1 contrast</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 287.211228 244.71583 
+Q 359.780864 259.107879 431.144158 273.260685 
+" style="fill: none; stroke: #222222; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 428.669993 271.342741 
+L 431.144158 273.260685 
+L 428.125304 274.089251 
+" style="fill: none; stroke: #222222; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="434.312267" y="298.226936" transform="rotate(-0 434.312267 298.226936)">CTB mRNA</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(406.012618 308.678343)">not uniform cellular</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(410.105376 315.764849)">mRNA depletion</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #777777" x="285.250609" y="344.27467" transform="rotate(-0 285.250609 344.27467)">Interpretation: compartment/readout/model-conditioned evidence structure, not a pure compartment-only causal effect.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="5.76" y="205.722193" transform="rotate(-0 5.76 205.722193)">c</text>
+   </g>
+  </g>
+  <g id="text_32">
+   <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="261.95969" y="11.874937" transform="rotate(-0 261.95969 11.874937)">Figure 4. CTB mRNA boundary analysis and source-resolved model</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa7b804574e">
+   <rect x="52.341768" y="38.409608" width="211.344767" height="134.067968"/>
+  </clipPath>
+  <clipPath id="p1211b6c3fa">
+   <rect x="306.814683" y="38.409608" width="211.344767" height="134.067968"/>
+  </clipPath>
+  <clipPath id="p1dfdb11fce">
+   <rect x="52.341768" y="218.988153" width="465.817681" height="140.771367"/>
+  </clipPath>
+ </defs>
+</svg>

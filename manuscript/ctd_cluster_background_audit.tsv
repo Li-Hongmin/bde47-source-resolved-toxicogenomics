@@ -1,0 +1,569 @@
+chemical_id	chemical_name	pass_rows	unique_pairs	seed_groups	independent_seed_groups	seed_groups_per_1000_pass_rows	seed_groups_per_1000_pairs	seed_group_rank
+C511295	2,2',4,4'-tetrabromodiphenyl ether	1731	1630	55	49	31.773541	33.742331	1
+D015655	1-Methyl-4-phenylpyridinium	1187	1122	26	23	21.90396	23.172906	2
+C009407	2,5,2',5'-tetrachlorobiphenyl	451	428	12	0	26.607539	28.037383	3
+C085911	2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one	97	80	5	5	51.546392	62.5	4
+C014024	2,4,5,2',4',5'-hexachlorobiphenyl	241	229	4	2	16.59751	17.467249	5
+C049584	2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine	182	176	4	3	21.978022	22.727273	6
+C587734	2,3,5-trichloro-6-phenyl-(1,4)benzoquinone	304	290	3	0	9.868421	10.344828	7
+C012796	2-butenal	177	175	2	0	11.299435	11.428571	8
+C511621	2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide	154	152	2	2	12.987013	13.157895	9
+C031278	2-chloroethyl ethyl sulfide	65	51	2	2	30.769231	39.215686	10
+C006718	1,12-benzoperylene	58	51	2	1	34.482759	39.215686	11
+C495626	14-deoxy-11,12-didehydroandrographolide	172	171	1	0	5.813953	5.847953	12
+C026486	1,2,5,6-dibenzanthracene	47	46	1	1	21.276596	21.73913	13
+C097240	15-deoxy-delta(12,14)-prostaglandin J2	39	37	1	1	25.641026	27.027027	14
+C532162	2-(1H-indazol-4-yl)-6-(4-methanesulfonylpiperazin-1-ylmethyl)-4-morpholin-4-ylthieno(3,2-d)pyrimidine	33	30	1	1	30.30303	33.333333	15
+D015073	2-Acetylaminofluorene	19	16	1	1	52.631579	62.5	16
+C486182	2,3-bis(4-hydroxyphenyl)-propionitrile	16	12	1	0	62.5	83.333333	17
+C521487	10-nitro-oleic acid	16	12	1	1	62.5	83.333333	18
+C404910	2,2-bis(4-hydroxyphenyl)-1,1,1-trichloroethane	15	13	1	1	66.666667	76.923077	19
+C545227	2,3-dihydroquinolin-4(1H)-one	14	11	1	0	71.428571	90.909091	20
+C562254	2'-(4-chlorophenyl)-3-(4-chlorophenylidene)-5,10-dimethyl-12-methylene-decahydro-1,2-(1',3'-dioxocyclopenta(c))azuleno(4,5-b)furan-4,11-dione	11	10	1	0	90.909091	100.0	21
+C517232	1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane	9	7	1	0	111.111111	142.857143	22
+C044565	2-((((2-chloroethyl)nitrosoamino)carbonyl)amino)propanamide	8	5	1	1	125.0	200.0	23
+C078765	2,3,5-(triglutathion-S-yl)hydroquinone	8	5	1	0	125.0	200.0	24
+C028474	1,4-bis(2-(3,5-dichloropyridyloxy))benzene	7	4	1	1	142.857143	250.0	25
+C530171	2,2,2,-trichloro-1-(3,4-dichlorophenyl)-ethylacetate	7	6	1	0	142.857143	166.666667	26
+C106746	1,5-benzothiazepine	4	3	1	0	250.0	333.333333	27
+C042509	18-hydroxydeoxycorticosterone	3	2	1	0	333.333333	500.0	28
+C004554	2,4,6-tribromophenol	870	869	0	0	0.0	0.0	29
+C477694	2,2',4,4',5-brominated diphenyl ether	399	397	0	0	0.0	0.0	30
+C032668	1-nitropyrene	235	227	0	0	0.0	0.0	31
+D015084	2,4-Dichlorophenoxyacetic Acid	184	182	0	0	0.0	0.0	32
+C063002	2,3-dimethoxy-1,4-naphthoquinone	153	151	0	0	0.0	0.0	33
+C507616	2-amino-14,16-dimethyloctadecan-3-ol	135	135	0	0	0.0	0.0	34
+C036990	2-amino-3,8-dimethylimidazo(4,5-f)quinoxaline	129	127	0	0	0.0	0.0	35
+C046760	15-acetyldeoxynivalenol	105	105	0	0	0.0	0.0	36
+C582717	2,6-dichloro-(1,4)benzoquinone	86	84	0	0	0.0	0.0	37
+C003898	2-anisidine	60	60	0	0	0.0	0.0	38
+C093973	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	60	52	0	0	0.0	0.0	39
+C036423	1-aminomethylphosphonic acid	53	50	0	0	0.0	0.0	40
+C025205	1,10-phenanthroline	52	51	0	0	0.0	0.0	41
+C076996	27-hydroxycholesterol	51	45	0	0	0.0	0.0	42
+C017822	2-amino-9H-pyrido(2,3-b)indole	47	47	0	0	0.0	0.0	43
+C029497	2,3-bis(3'-hydroxybenzyl)butyrolactone	46	46	0	0	0.0	0.0	44
+C020175	16 alpha-ethyl-21-hydroxy-19-nor-4-pregnene-3,20-dione	42	41	0	0	0.0	0.0	45
+C569107	1-(2-chlorobenzyl)-5'-phenyl-3'H-spiro(indoline-3,2'-(1,3,4)thiadiazol)-2-one	41	35	0	0	0.0	0.0	46
+C003585	22-hydroxycholesterol	35	35	0	0	0.0	0.0	47
+C044755	1-methyl-4-phenyl-2,3-dihydropyridinium	35	31	0	0	0.0	0.0	48
+C033146	1-hydroxypyrene	31	31	0	0	0.0	0.0	49
+C013186	2,3-pentanedione	28	28	0	0	0.0	0.0	50
+C577942	2-methoxy-N-(3-methyl-2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)benzenesulfonamide	28	28	0	0	0.0	0.0	51
+D000077584	2-Methoxyestradiol	28	23	0	0	0.0	0.0	52
+C007997	25-hydroxycholesterol	25	23	0	0	0.0	0.0	53
+C107946	2,7-dihydroxynaphthalene	25	25	0	0	0.0	0.0	54
+C072581	16-hydroxycleroda-3,13(14)-dien-15,16-olide	24	23	0	0	0.0	0.0	55
+C009828	2,4,5,2',5'-pentachlorobiphenyl	23	17	0	0	0.0	0.0	56
+C477819	15-deoxyprostaglandin J2	23	16	0	0	0.0	0.0	57
+C440850	2,4,3',5'-tetramethoxystilbene	22	20	0	0	0.0	0.0	58
+C018535	2-ethylhexyldiphenylphosphate	21	21	0	0	0.0	0.0	59
+C547124	2,3-dibromopropyl-2,4,6-tribromophenyl ether	19	14	0	0	0.0	0.0	60
+C576882	1-(2-trifluoromethoxyphenyl)-2-nitroethanone	19	19	0	0	0.0	0.0	61
+C015802	2,6-dichloro-4-nitrophenol	18	18	0	0	0.0	0.0	62
+C517943	1-(4-(6-bromobenzo(1,3)dioxol-5-yl)-3a,4,5,9b-tetrahydro-3H-cyclopenta(c)quinolin-8-yl)ethanone	18	16	0	0	0.0	0.0	63
+C548651	2-(1'H-indole-3'-carbonyl)thiazole-4-carboxylic acid methyl ester	18	13	0	0	0.0	0.0	64
+C029216	2-amino-3-methylimidazo(4,5-f)quinoline	17	17	0	0	0.0	0.0	65
+C033489	1,3-dichloro-2-propanol	17	13	0	0	0.0	0.0	66
+C506325	1-hydroxy-1-norresistomycin	17	11	0	0	0.0	0.0	67
+D015058	1-Naphthylisothiocyanate	17	17	0	0	0.0	0.0	68
+C000594525	2-methoxy-6-undecyl-1,4-benzoquinone	16	16	0	0	0.0	0.0	69
+C015262	1,6-hexamethylene diisocyanate	15	15	0	0	0.0	0.0	70
+C457499	2-chloro-5-nitrobenzanilide	15	11	0	0	0.0	0.0	71
+C471674	10'(Z),13'(E),15'(E)-heptadecatrienylhydroquinone	15	15	0	0	0.0	0.0	72
+C546460	2-amino-3-methyl-3H-imidazo(4,5-f)quinoline	15	12	0	0	0.0	0.0	73
+C074153	1,4-phenylenebis(methylene)selenocyanate	14	13	0	0	0.0	0.0	74
+C120227	2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluorobenzamide	14	12	0	0	0.0	0.0	75
+C121479	2,4-dihydroxybenzophenone	14	13	0	0	0.0	0.0	76
+C400184	1-palmitoyl-2-(5-oxovaleroyl)-sn-glycero-3-phosphorylcholine	14	14	0	0	0.0	0.0	77
+C425784	2-(4-amino-3-methylphenyl)-5-fluorobenzothiazole	14	14	0	0	0.0	0.0	78
+C525921	2-(4-(biphenyl-4-sulfonyl)-piperazin-1-yl)-6,7-dipropoxyquinazolin-4-yl-amine	14	12	0	0	0.0	0.0	79
+C576261	2-ethylhexyl 2,3,4,5-tetrabromobenzoate	14	12	0	0	0.0	0.0	80
+C035342	1,4-naphthoquinone	13	13	0	0	0.0	0.0	81
+D015056	1-Methyl-3-isobutylxanthine	13	13	0	0	0.0	0.0	82
+C044563	24-hydroxycholesterol	12	11	0	0	0.0	0.0	83
+C061282	2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine	12	11	0	0	0.0	0.0	84
+C070055	2,3',4,4',5-pentachlorobiphenyl	12	10	0	0	0.0	0.0	85
+C120275	2-hydroxy-1-naphthylaldehyde isonicotinoyl hydrazone	12	11	0	0	0.0	0.0	86
+C416653	2-(3'-methoxyphenyl)-6-pyrrolidinyl-4-quinazolinone	12	9	0	0	0.0	0.0	87
+C417207	2,2',4,6,6'-pentachlorobiphenyl	12	10	0	0	0.0	0.0	88
+C550088	2-chloro-N-(4-chlorobiphenyl-2-yl)nicotinamide	12	10	0	0	0.0	0.0	89
+C574037	2-(1-hydroxy-4-oxocyclohexa-2,5-dienyl)pyran-4-one	12	11	0	0	0.0	0.0	90
+C017062	1-benzylimidazole	11	8	0	0	0.0	0.0	91
+C028358	24,25-epoxycholesterol	11	11	0	0	0.0	0.0	92
+C052383	1,1-bis(4-hydroxyphenyl)-2-phenylbut-1-ene	11	11	0	0	0.0	0.0	93
+C093337	1-(2-(3,4-dichlorophenyl)ethyl)-4-methylpiperazine	11	11	0	0	0.0	0.0	94
+C097949	1,25-dihydroxyvitamin D	11	11	0	0	0.0	0.0	95
+C552530	1,1-bis(3'-indolyl)-1-(4-hydroxyphenyl)methane	11	10	0	0	0.0	0.0	96
+C569670	1-(4-((2-(2-aminopyrimidin-5-yl)-7-methyl-4-morpholinothieno(3,2-d)pyrimidin-6-yl)methyl)piperazin-1-yl)-2-hydroxypropan-1-one	11	11	0	0	0.0	0.0	97
+C000590225	2-(2-((3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yloxy)methyl)phenyl)-3-methoxyacrylate	10	10	0	0	0.0	0.0	98
+C001390	2-hydroxyestradiol	10	9	0	0	0.0	0.0	99
+C004762	2,4-dichlorophenol	10	8	0	0	0.0	0.0	100
+C012277	1,2-diamino-4-nitrobenzene	10	10	0	0	0.0	0.0	101
+C024564	2,4,6-trichlorophenol	10	10	0	0	0.0	0.0	102
+C038890	2,3,4,7,8-pentachlorodibenzofuran	10	9	0	0	0.0	0.0	103
+C091423	2-chloromethylpyridine	10	10	0	0	0.0	0.0	104
+C094210	2,2'-(hydroxynitrosohydrazono)bis-ethanamine	10	7	0	0	0.0	0.0	105
+C120129	2,2',3,4',5',6-hexachlorobiphenyl	10	9	0	0	0.0	0.0	106
+C448659	17-(dimethylaminoethylamino)-17-demethoxygeldanamycin	10	10	0	0	0.0	0.0	107
+C478160	(1,2-bis(1,2-benzisoselenazolone-3(2H)-ketone))ethane	10	9	0	0	0.0	0.0	108
+C497101	2-hydroxy-9-cis-octadecenoic acid	10	6	0	0	0.0	0.0	109
+C540360	1-(3',5'-dihydroxyphenoxy)-7-(2'',4'',6''-trihydroxyphenoxy)-2,4,9-trihydroxydibenzo-1,4,-dioxin	10	5	0	0	0.0	0.0	110
+C013930	2,4-dibromophenol	9	9	0	0	0.0	0.0	111
+C014953	2-acetyltributylcitrate	9	8	0	0	0.0	0.0	112
+C076159	2,3-dichloro-1-propanol	9	9	0	0	0.0	0.0	113
+C089946	2,4-thiazolidinedione	9	9	0	0	0.0	0.0	114
+C090859	1-((4-methylsulfonyl)phenyl)-3-trifluoromethyl-5-(4-fluorophenyl)pyrazole	9	7	0	0	0.0	0.0	115
+C446520	2-(2-hydroxyethylsulfanyl)-3-methyl-1,4-naphthoquinone	9	9	0	0	0.0	0.0	116
+C447943	11-keto-boswellic acid	9	9	0	0	0.0	0.0	117
+C451219	2,2-bis(hydroxymethyl)-1-azabicyclo(2,2,2,)octan-3-one	9	5	0	0	0.0	0.0	118
+C495172	(19Z)-halichondramide	9	9	0	0	0.0	0.0	119
+C501649	2',4'-dihydroxy-6'-methoxy-3',5'-dimethylchalcone	9	9	0	0	0.0	0.0	120
+D019377	12-Hydroxy-5,8,10,14-eicosatetraenoic Acid	9	7	0	0	0.0	0.0	121
+C000598729	2,2',3,4',5,5',6-heptachlorobiphenyl	8	8	0	0	0.0	0.0	122
+C000612164	2-methoxy-5-((3,4,5-trimethosyphenyl)seleninyl)phenol	8	8	0	0	0.0	0.0	123
+C020888	1,2-dielaidoylphosphatidylethanolamine	8	8	0	0	0.0	0.0	124
+C040756	1,2-naphthoquinone	8	8	0	0	0.0	0.0	125
+C044985	1',2'-dihydrorotenone	8	7	0	0	0.0	0.0	126
+C046728	2,2'-azobis(2-amidinopropane)	8	8	0	0	0.0	0.0	127
+C051412	1,2,3,4,7,8-hexachlorodibenzofuran	8	3	0	0	0.0	0.0	128
+C067795	10-decarbamoylmitomycin C	8	7	0	0	0.0	0.0	129
+C081766	2,4,4'-trichlorobiphenyl	8	6	0	0	0.0	0.0	130
+C095284	1H-(1,2,4)oxadiazolo(4,3-a)quinoxalin-1-one	8	8	0	0	0.0	0.0	131
+C473650	1,2,3,4,6,7,8-heptachlorodibenzofuran	8	3	0	0	0.0	0.0	132
+C477941	1,4-phenylenebis(methylene)selenocyanate, glutathione conjugate	8	8	0	0	0.0	0.0	133
+C543211	1,2,5,8-tetrahydroxy anthraquinone	8	8	0	0	0.0	0.0	134
+C560296	1,5-bis(2,3-dimethoxyphenyl)penta-1,4-dien-3-one	8	4	0	0	0.0	0.0	135
+D014013	1,2-Dihydroxybenzene-3,5-Disulfonic Acid Disodium Salt	8	7	0	0	0.0	0.0	136
+C000657144	(1R,3S,3aR,8bS)-3a-(4-Bromophenyl)-6,8-dimethoxy-3-phenyl-2,3,3a,8b-tetrahydro-1H-cyclopenta(b)benzofuran-1,8b-diol	7	7	0	0	0.0	0.0	137
+C005849	2,2,2-trichloroethanol	7	4	0	0	0.0	0.0	138
+C016403	2,4-dinitrotoluene	7	4	0	0	0.0	0.0	139
+C025603	1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid	7	7	0	0	0.0	0.0	140
+C032038	2-bromophenol	7	7	0	0	0.0	0.0	141
+C036758	2-ethylhexyl acrylate	7	7	0	0	0.0	0.0	142
+C036989	2-amino-3,4-dimethylimidazo(4,5-f)quinoline	7	7	0	0	0.0	0.0	143
+C038964	2,6-dibromophenol	7	7	0	0	0.0	0.0	144
+C045305	2,4-dinitrofluorobenzene sulfonic acid	7	7	0	0	0.0	0.0	145
+C051268	2-hydroxychavicol	7	7	0	0	0.0	0.0	146
+C105351	1-hydroxy-2-oxo-3,3-bis(2-aminoethyl)-1-triazene	7	5	0	0	0.0	0.0	147
+C412810	2-hydroxyursolic acid	7	7	0	0	0.0	0.0	148
+C465664	2-(1-(3-dimethylaminopropyl)-5-methoxyindol-3-yl)-3-(1H-indol-3-yl)maleimide	7	6	0	0	0.0	0.0	149
+C472829	1-(2-cyano-3,12-dioxooleana-1,9-dien-28-oyl) imidazole	7	6	0	0	0.0	0.0	150
+C525063	2'-fluoro-6,7-methylenedioxy-2-phenyl-4-quinolone	7	7	0	0	0.0	0.0	151
+C526438	2-methoxyestradiol-3,17-O,O-bis(sulfamate)	7	7	0	0	0.0	0.0	152
+C541131	2,2',3,3',4,4',5-heptachlorobiphenyl	7	7	0	0	0.0	0.0	153
+C579148	1,2-bis(isothiazol-5-yl)disulfane	7	7	0	0	0.0	0.0	154
+D015082	2,2'-Dipyridyl	7	6	0	0	0.0	0.0	155
+D015650	24,25-Dihydroxyvitamin D 3	7	7	0	0	0.0	0.0	156
+C000599178	2-amino-3-hydroxy-2-hydroxymethylpropyl 3-acetylbetulinoate	6	3	0	0	0.0	0.0	157
+C009534	2,4,5-trichlorophenol	6	6	0	0	0.0	0.0	158
+C011269	2,5-hexanedione	6	3	0	0	0.0	0.0	159
+C014970	2-aminodiphenyl	6	4	0	0	0.0	0.0	160
+C017821	2-amino-3-methyl-9H-pyrido(2,3-b)indole	6	6	0	0	0.0	0.0	161
+C022957	1-methylindole	6	5	0	0	0.0	0.0	162
+C038806	1,4-dihydropyridine	6	6	0	0	0.0	0.0	163
+C050642	1,2-dihydroxynaphthalene	6	4	0	0	0.0	0.0	164
+C055987	20-hydroxy-5,8,11,14-eicosatetraenoic acid	6	3	0	0	0.0	0.0	165
+C066841	2,3,7,8-tetrabromodibenzo-4-dioxin	6	6	0	0	0.0	0.0	166
+C117776	2,5-diaziridinyl-3-(hydroxymethyl)-6-methyl-1,4-benzoquinone	6	6	0	0	0.0	0.0	167
+C450643	(2)-5,6,7,8,4'-pentamethoxyflavanone	6	4	0	0	0.0	0.0	168
+C539772	(1,2-diaminocyclohexane)(5,6-dimethyl-1,10-phenanthroline)platinum(II)	6	4	0	0	0.0	0.0	169
+C545121	2-((4-(1-methyl-4-pyridin-4-yl-1H-pyrazol-3-yl)phenoxy)methyl)quinoline	6	5	0	0	0.0	0.0	170
+C552819	10-(octyloxy)decyl-2-(trimethylammonium)ethyl phosphate	6	6	0	0	0.0	0.0	171
+C553294	1-(4-(4-propionylpiperazin-1-yl)-3-(trifluoromethyl)phenyl)-9-(quinolin-3-yl)benzo(h)(1,6)naphthyridin-2(1H)-one	6	6	0	0	0.0	0.0	172
+C000591541	1-cyclopropyl-4-(4-((5-methyl-3-(3-(4-(trifluoromethoxy)phenyl)-1,2,4-oxadiazol-5-yl)-1H-pyrazol-1-yl)methyl)pyridin-2-yl)piperazine	5	4	0	0	0.0	0.0	173
+C015699	1,2-benzisothiazoline-3-one	5	5	0	0	0.0	0.0	174
+C023785	2-amino-6-methyldipyrido(1,2-a-3',2'-d)imidazole	5	5	0	0	0.0	0.0	175
+C025984	15-hydroxy-5,8,11,13-eicosatetraenoic acid	5	5	0	0	0.0	0.0	176
+C027667	2-aminophenol	5	5	0	0	0.0	0.0	177
+C029350	1-naphthol	5	5	0	0	0.0	0.0	178
+C029790	2,2',3',4,4',5-hexachlorobiphenyl	5	4	0	0	0.0	0.0	179
+C033020	1-aminobenzotriazole	5	5	0	0	0.0	0.0	180
+C036531	2,6-xylenol	5	4	0	0	0.0	0.0	181
+C036837	2,3,5-trimethyl-6-(12-hydroxy-5,10-dodecadiynyl)-1,4-benzoquinone	5	5	0	0	0.0	0.0	182
+C118559	1-bromopropane	5	5	0	0	0.0	0.0	183
+C437043	2-butylamino-2-demethoxy-hypocrellin B	5	3	0	0	0.0	0.0	184
+C487689	(2E,4E,6E,10E)-3,7,11,15-tetramethyl-2,4,6,10,14-hexadecapentaenoic acid	5	5	0	0	0.0	0.0	185
+C500344	2-methoxyestradiol-3,17-bis-O,O-sulfamate	5	3	0	0	0.0	0.0	186
+C501280	2-amino-6-(2-(cyclopropylmethoxy)-6-hydroxyphenyl)-4-piperidin-4-yl nicotinonitrile	5	5	0	0	0.0	0.0	187
+C510259	1-(4-(furo(2,3-b)quinolin-4-ylamino)phenyl)ethanone	5	5	0	0	0.0	0.0	188
+C524478	1,3-bis(4-hydroxyphenyl)-4-methyl-5-(4-(2-piperidinylethoxy)phenol)-1H-pyrazole	5	4	0	0	0.0	0.0	189
+C552420	1-(3',4',5'-trimethoxyphenyl)-3-(3'',4''-dimethoxy-2'-hydroxyphenyl)propane	5	5	0	0	0.0	0.0	190
+C552597	1-pentyl-3-(1-naphthoyl)indole	5	4	0	0	0.0	0.0	191
+C557531	1,7-diphenyl-5-heptene-3-one	5	5	0	0	0.0	0.0	192
+C570662	2-amino-8-(4-(2-hydroxyethoxy)cyclohexyl)-6-(6-methoxypyridin-3-yl)-4-methylpyrido(2,3-d)pyrimidin-7(8H)-one	5	5	0	0	0.0	0.0	193
+C578079	2-cyclohexylselenazolidine-4-carboxylic acid	5	3	0	0	0.0	0.0	194
+C581182	2-dodecyl-6-methoxycyclohexa-2,5-diene-1,4-dione	5	5	0	0	0.0	0.0	195
+C000590832	1-pentyl-1H-indole-3-carboxylic acid 8-quinolinyl ester	4	2	0	0	0.0	0.0	196
+C000597136	1-(4-chlorophenyl)-benzo-2,5-quinone	4	3	0	0	0.0	0.0	197
+C000599179	28-O-acetylbetulin-3-ylglucopyranoside	4	4	0	0	0.0	0.0	198
+C006737	1-benzylpiperazine	4	4	0	0	0.0	0.0	199
+C009536	1,2,3-trichloropropane	4	3	0	0	0.0	0.0	200
+C014211	2,3,7,8-tetrachlorodibenzofuran	4	3	0	0	0.0	0.0	201
+C022776	2-bromopalmitate	4	4	0	0	0.0	0.0	202
+C027012	2-((2'-quinolinyl)-1,3-indandione)	4	4	0	0	0.0	0.0	203
+C030683	2-chlorophenol	4	4	0	0	0.0	0.0	204
+C031487	2,3,4,6-tetrachlorophenol	4	4	0	0	0.0	0.0	205
+C033310	1,8-dinitropyrene	4	4	0	0	0.0	0.0	206
+C035407	2,6-di-tert-butylphenol	4	3	0	0	0.0	0.0	207
+C039411	1,2-dibromo-2,4-dicyanobutane	4	4	0	0	0.0	0.0	208
+C039673	2,3,5,6-tetrachlorophenate	4	4	0	0	0.0	0.0	209
+C039674	2,3,4,5-tetrachlorophenate	4	4	0	0	0.0	0.0	210
+C040488	26,26,26,27,27,27-hexafluoro-1,25-dihydroxyvitamin D3	4	4	0	0	0.0	0.0	211
+C044578	2,3,5,6-tetrachlorohydroquinone	4	4	0	0	0.0	0.0	212
+C046839	1,2,3,4,6,7,8-heptachlorodibenzodioxin	4	3	0	0	0.0	0.0	213
+C047799	2-hydroxyacetanilide	4	2	0	0	0.0	0.0	214
+C049325	1,2-dithiol-3-thione	4	3	0	0	0.0	0.0	215
+C051450	2-ethyl-5-carboxypentyl phthalate	4	4	0	0	0.0	0.0	216
+C051750	2-hexenal	4	4	0	0	0.0	0.0	217
+C054992	15-keto-5,8,11,13-eicosatetraenoic acid	4	4	0	0	0.0	0.0	218
+C055238	1-chloro-4-(2,2-dichloro-1-(4-chlorophenyl)ethenyl)-3-(methylsulfonyl)benzene	4	4	0	0	0.0	0.0	219
+C067372	1-trichloromethyl-1,2,3,4-tetrahydro-beta-carboline	4	4	0	0	0.0	0.0	220
+C068543	1,2-diethyl-3-hydroxypyridin-4-one	4	4	0	0	0.0	0.0	221
+C087667	2,3,3',4,4',5-hexachlorobiphenyl	4	4	0	0	0.0	0.0	222
+C100349	1-phenyl-1,2-propanedione	4	4	0	0	0.0	0.0	223
+C412791	1,2,3,4,6,7-hexachlorinated naphthalene	4	4	0	0	0.0	0.0	224
+C477931	1L-6-hydroxymethyl-chiro-inositol 2(R)-2-O-methyl-3-O-octadecylcarbonate	4	4	0	0	0.0	0.0	225
+C502485	2,3,4-trichlorophenol	4	4	0	0	0.0	0.0	226
+C526437	2-methoxy-3-O-sulfamoyl-17-cyanomethylestra-1,3,5(10)-triene	4	4	0	0	0.0	0.0	227
+C534883	10074-G5	4	2	0	0	0.0	0.0	228
+C546571	2,2'-cyclohexane-1,2-diylbis(azanediyl)bis(methylene)diphenoldichloroplatinum(II)	4	4	0	0	0.0	0.0	229
+D019796	15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid	4	3	0	0	0.0	0.0	230
+C000516	2-(2-cresyl)-4H-1-3-2-benzodioxaphosphorin-2-oxide	3	3	0	0	0.0	0.0	231
+C000626478	2-(2-(4-heptylphenyl)ethyl)-6-hydroxy-benzoic acid	3	3	0	0	0.0	0.0	232
+C000629248	1-decyl-3-methylimidazolium bromide	3	2	0	0	0.0	0.0	233
+C005926	2-amino-4-hydroxy-6-formylpteridine	3	3	0	0	0.0	0.0	234
+C006593	2-anthramine	3	3	0	0	0.0	0.0	235
+C014376	1,4-bis(2,3-epoxypropoxy)butane	3	3	0	0	0.0	0.0	236
+C014632	2-keto-4-methylthiobutyric acid	3	3	0	0	0.0	0.0	237
+C018923	2,2'-dihydroxy-6,6'-dinaphthyldisulfide	3	3	0	0	0.0	0.0	238
+C023514	2,6-dinitrotoluene	3	3	0	0	0.0	0.0	239
+C029141	2,2,5,7,8-pentamethyl-1-hydroxychroman	3	3	0	0	0.0	0.0	240
+C032904	2,2',3,5',6-pentachlorobiphenyl	3	2	0	0	0.0	0.0	241
+C035476	2,2',4,4'-tetrahydroxybenzophenone	3	3	0	0	0.0	0.0	242
+C035957	2-hydroxyethyl acrylate	3	3	0	0	0.0	0.0	243
+C036535	1,6-bis(cyclohexyloximinocarbonyl)hexane	3	3	0	0	0.0	0.0	244
+C038983	1,3-dimethylthiourea	3	2	0	0	0.0	0.0	245
+C040345	1-chloropyrene	3	2	0	0	0.0	0.0	246
+C042533	1 alpha-hydroxyergocalciferol	3	3	0	0	0.0	0.0	247
+C047971	2,4'-bisphenol F	3	3	0	0	0.0	0.0	248
+C053063	2,2-dichloroacetyl chloride	3	3	0	0	0.0	0.0	249
+C054919	2,2-(2-chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene	3	3	0	0	0.0	0.0	250
+C055142	2-chlorobiphenyl	3	2	0	0	0.0	0.0	251
+C056559	2,4-di-tert-butylphenol	3	3	0	0	0.0	0.0	252
+C056892	2,5-dichlorophenol	3	3	0	0	0.0	0.0	253
+C062897	28-deoxonimbolide	3	3	0	0	0.0	0.0	254
+C067259	2,4,6-trichlorophenyl-4'-aminophenyl ether	3	3	0	0	0.0	0.0	255
+C067940	2,3,3',4,4'-pentachlorobiphenyl	3	3	0	0	0.0	0.0	256
+C070379	1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester	3	2	0	0	0.0	0.0	257
+C075712	1,4,7-triazacyclononane	3	3	0	0	0.0	0.0	258
+C079393	1,3-dihydroxy-4,4,5,5-tetramethyl-2-(4-carboxyphenyl)tetrahydroimidazole	3	3	0	0	0.0	0.0	259
+C090768	1-(4-hydroxyphenyl)-1,2-diphenyl-1-butene	3	3	0	0	0.0	0.0	260
+C099328	2-allylphenol	3	3	0	0	0.0	0.0	261
+C104450	25-hydroxyvitamin D	3	3	0	0	0.0	0.0	262
+C118701	1-bromohexane	3	3	0	0	0.0	0.0	263
+C416442	1,4-anthraquinone	3	3	0	0	0.0	0.0	264
+C418233	2-amino-3-(3-hydrox-5(2-methyl-2H-tetrazol-5-yl)isoxazol-4-yl)propionic acid	3	3	0	0	0.0	0.0	265
+C429685	1,4,5,8-naphthalenetetracarboxylic diimide	3	3	0	0	0.0	0.0	266
+C432523	2-amino-3-methylimidazo(4,5-f)quinoxaline	3	3	0	0	0.0	0.0	267
+C480140	1,6-Bis(4-(4-amino-3-hydroxyphenoxy)phenyl)diamantane	3	3	0	0	0.0	0.0	268
+C482402	20-O-(beta-D-glucopyranosyl)-20(S)-protopanaxadiol	3	2	0	0	0.0	0.0	269
+C484327	2'-benzoyloxycinnamaldehyde	3	3	0	0	0.0	0.0	270
+C492909	1,1-bis(3'-indolyl)-1-(4-trifluoromethylphenyl)methane	3	2	0	0	0.0	0.0	271
+C496879	103D5R	3	3	0	0	0.0	0.0	272
+C500336	2,2',4,4',5-pentachlorobiphenyl	3	3	0	0	0.0	0.0	273
+C505382	1-cyclohexyl-4-(3-(5-methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-propyl)-piperazine	3	3	0	0	0.0	0.0	274
+C513115	1-(methylimino-N-oxy)-6-(2-morpholinoethoxy)-3-phenyl-1H-indene-2-carboxylic acid ethyl ester	3	3	0	0	0.0	0.0	275
+C518368	(2E)-N,N-dibutyl-3-(4-hydroxy-3-methoxyphenyl)acrylamide	3	3	0	0	0.0	0.0	276
+C520611	2-((2,6-dichlorophenyl)amino)benzeneacetic acid 4-(3H-1,2-dithiol-3-thione-5-yl)phenyl ester	3	3	0	0	0.0	0.0	277
+C522525	2-amino-1-methyl-6-phenyl-1H-imidazo(4,5-b)pyridine	3	3	0	0	0.0	0.0	278
+C539551	1,2,4,5-benzenetetraamine	3	3	0	0	0.0	0.0	279
+C540044	1-hexadecyl-3-methylimidazolium chloride	3	3	0	0	0.0	0.0	280
+C541980	2,2',4,6'-tetramethoxystilbene	3	3	0	0	0.0	0.0	281
+C545239	2'-epi-2'-O-acetylthevetin B	3	3	0	0	0.0	0.0	282
+C553231	2-(4-hydroxyphenyl)-3-phenylpent-2-enoic acid (4-(2-dimethylaminoethoxy)phenyl)amide	3	3	0	0	0.0	0.0	283
+C554291	10-methoxy-2,2-dimethyl-2,6-dihydropyrano(3,2-c)quinolin-5-one	3	3	0	0	0.0	0.0	284
+C561619	1-(1-methanesulfonylpiperidin-4-yl)-3-(4-trifluoromethoxyphenyl)urea	3	3	0	0	0.0	0.0	285
+C575652	1,2,3,5,6,7-hexachloronaphthalene	3	3	0	0	0.0	0.0	286
+C576975	2-hydroxy-3',5,5'-trimethoxychalcone	3	3	0	0	0.0	0.0	287
+C585912	2,4-dihydroxy-N-(4-hydroxyphenyl)benzamide	3	3	0	0	0.0	0.0	288
+D015057	1-Naphthylamine	3	3	0	0	0.0	0.0	289
+D015085	2,4,5-Trichlorophenoxyacetic Acid	3	3	0	0	0.0	0.0	290
+D020003	1-Octanol	3	2	0	0	0.0	0.0	291
+C000591344	2-(4-aminophenyl)-1,3,2-dithiarsinane	2	2	0	0	0.0	0.0	292
+C000616873	2-(3-((4-aminobutyl )amino)propyl )-7-(3-((2-methoxybenzyl)amino)propyl)benzo(lmn)(3,8)phenanthroline-1,3,6,8(2H,7H)-tetraone	2	2	0	0	0.0	0.0	293
+C000620621	1-pentyfluoro-1H-indole-3-carboxylic acid 8-quinolinyl ester	2	2	0	0	0.0	0.0	294
+C000721062	2,4,7-trimethyldibenzothiophene	2	2	0	0	0.0	0.0	295
+C002448	1,2-linoleoylphosphatidylcholine	2	2	0	0	0.0	0.0	296
+C003564	1,25-dihydroxyergocalciferol	2	2	0	0	0.0	0.0	297
+C004482	1-aminopyrene	2	2	0	0	0.0	0.0	298
+C007303	2,5-diaminotoluene	2	2	0	0	0.0	0.0	299
+C010422	2,4,6-trichlorophenyl 4-nitrophenyl ether	2	2	0	0	0.0	0.0	300
+C010925	2,5-dihydroxybenzoic acid	2	2	0	0	0.0	0.0	301
+C013031	2'-hydroxychalcone	2	2	0	0	0.0	0.0	302
+C014843	1,2,3,4-tetrahydroisoquinoline	2	1	0	0	0.0	0.0	303
+C015550	2,4',5-trichlorobiphenyl	2	1	0	0	0.0	0.0	304
+C016614	1-nitronaphthalene	2	2	0	0	0.0	0.0	305
+C018406	1-(3-trifluoromethylphenyl)piperazine	2	2	0	0	0.0	0.0	306
+C022177	2,3,2-tetramine	2	2	0	0	0.0	0.0	307
+C023350	1-iodo-2,4-dinitrobenzene	2	2	0	0	0.0	0.0	308
+C024980	2-hydroxyestrone	2	2	0	0	0.0	0.0	309
+C026702	16-hydroxyestrone	2	1	0	0	0.0	0.0	310
+C026942	2,6-diisocyanatotoluene	2	1	0	0	0.0	0.0	311
+C027804	2,4-dimethylphenol	2	2	0	0	0.0	0.0	312
+C029905	2,5-dichlorobiphenyl	2	1	0	0	0.0	0.0	313
+C030375	2,3-dichlorobiphenyl	2	1	0	0	0.0	0.0	314
+C034889	2,6-dihydroxyanthraquinone	2	2	0	0	0.0	0.0	315
+C035208	2-amino-4,6-dinitrotoluene	2	1	0	0	0.0	0.0	316
+C035976	2,4,2',4'-tetrachlorobiphenyl	2	2	0	0	0.0	0.0	317
+C038237	1-oleoyl-2-acetylglycerol	2	2	0	0	0.0	0.0	318
+C038649	13-hydroperoxy-9,11-octadecadienoic acid	2	2	0	0	0.0	0.0	319
+C042052	2-amino-3,7,8-trimethylimidazo(4,5-f)quinoxaline	2	2	0	0	0.0	0.0	320
+C045575	1,2,4-triazole	2	2	0	0	0.0	0.0	321
+C046838	1,2,3,6,7,8-hexachlorodibenzodioxin	2	2	0	0	0.0	0.0	322
+C048893	2,5-xylenol	2	2	0	0	0.0	0.0	323
+C051452	1,2,3,7,8-pentachlorodibenzo-p-dioxin	2	2	0	0	0.0	0.0	324
+C052915	2,3,4',6-tetrachlorobiphenyl	2	1	0	0	0.0	0.0	325
+C054067	2,3-dimethylphenol	2	2	0	0	0.0	0.0	326
+C057349	2,4-decadienal	2	2	0	0	0.0	0.0	327
+C059354	2',4'-dihydroxychalcone	2	2	0	0	0.0	0.0	328
+C070279	2'-cyano-2'-deoxyarabinofuranosylcytosine	2	2	0	0	0.0	0.0	329
+C078132	2,3,5,6-tetrachlorobiphenyl	2	1	0	0	0.0	0.0	330
+C078449	2,2',5-trichlorobiphenyl	2	1	0	0	0.0	0.0	331
+C084198	1-O-(2-(2,3-dimethylphenyl)aminobenzoyl)glucopyranuronic acid	2	1	0	0	0.0	0.0	332
+C084924	1,2,3,4-tetrahydro-1-(phenylmethyl)isoquinoline	2	1	0	0	0.0	0.0	333
+C087594	2-amino-5-nitrophenol	2	1	0	0	0.0	0.0	334
+C090034	2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide	2	2	0	0	0.0	0.0	335
+C091160	2,5,3'-trichlorobiphenyl	2	1	0	0	0.0	0.0	336
+C094859	2,2',3,3',4,6'-hexachlorobiphenyl	2	2	0	0	0.0	0.0	337
+C103345	18-methoxycoronaridine	2	2	0	0	0.0	0.0	338
+C103422	2-ethylhexyl salicylate	2	2	0	0	0.0	0.0	339
+C108731	1'-(hydroxymethyl)eugenol	2	2	0	0	0.0	0.0	340
+C109986	2-aminoethoxydiphenyl borate	2	2	0	0	0.0	0.0	341
+C116893	2,2-dichloro-12-(p-chlorophenyl)-dodecanoic acid	2	2	0	0	0.0	0.0	342
+C119129	18alpha-glycyrrhetinic acid	2	2	0	0	0.0	0.0	343
+C121228	2-amino-6-boronohexanoic acid	2	2	0	0	0.0	0.0	344
+C122128	1,7-N-heptylene-bis-9,9'-amino-1,2,3,4-tetrahydroacridine	2	2	0	0	0.0	0.0	345
+C403008	1,4-dihydroquinone	2	2	0	0	0.0	0.0	346
+C405904	1-hydroxy-1-hydroperoxynonane	2	2	0	0	0.0	0.0	347
+C408604	2-(4-nitrophenyl)-4-(4-fluorophenyl)-5-(4-pyridinyl)-1H-imidazole	2	2	0	0	0.0	0.0	348
+C410803	17-(5'-isoxazolyl)androsta-4,16-dien-3-one	2	2	0	0	0.0	0.0	349
+C432747	1,1-dimethylbutyl-1-deoxy-Delta(9)-THC	2	2	0	0	0.0	0.0	350
+C447028	2,2',4,6-tetrachlorobiphenyl	2	1	0	0	0.0	0.0	351
+C447621	16-(4-fluorophenoxy)lipoxin A4	2	1	0	0	0.0	0.0	352
+C456029	1-(5-chloro-1-((2,4-dimethoxyphenyl)sulfonyl)-3-(2-methoxyphenyl)-2-oxo-2,3-dihydro-1H-indol-3-yl)-4-hydroxy-N,N-dimethyl-2-pyrrolidinecarboxamide	2	2	0	0	0.0	0.0	353
+C468114	1-palmitoyl-2-arachidonyl-3-phosphorylcholine	2	2	0	0	0.0	0.0	354
+C473783	2,4,6-trimethyl-N-(meta-3-trifluoromethylphenyl)benzenesulfonamide	2	1	0	0	0.0	0.0	355
+C477861	(2-(5-amino-2-(4-fluorophenyl)-1,6-dihydro-6-oxo-1-pyrimidinyl)-N-(1-((5-methoxycarbonyl-2-benzoxazolyl)carbonyl)-2-phenylethyl)acetamide)	2	2	0	0	0.0	0.0	356
+C480124	1,3,5-triallyl isocyanurate	2	2	0	0	0.0	0.0	357
+C486469	2-(1-carboxy-2-(3-(3,5-dichlorobenzyl)-3H-imidazol-4-yl)ethylamino)-4-methylpentanoic acid	2	2	0	0	0.0	0.0	358
+C488185	2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluoro-5-bromobenzamide	2	2	0	0	0.0	0.0	359
+C495777	2-ethylphenol	2	2	0	0	0.0	0.0	360
+C499326	2-((aminocarbonyl)amino)-5-(4-fluorophenyl)-3-thiophenecarboxamide	2	2	0	0	0.0	0.0	361
+C503118	1,3-dihydroxy-2-hydroxymethylpropyl-2-ammonium 2-((R)-3-cyclo-hexyl-1-phenylpropyl)-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylate monohydrate	2	2	0	0	0.0	0.0	362
+C505559	2-iodophenyl-(1-(1-methylpiperidin-2-ylmethyl)-1H-indol-3-yl)methanone	2	2	0	0	0.0	0.0	363
+C506698	2,5-dimethylcelecoxib	2	2	0	0	0.0	0.0	364
+C517140	2-(4-(2-(3,4-dichlorophenyl)ethyl)phenylamino)benzoic acid	2	1	0	0	0.0	0.0	365
+C519132	2-(5-benzo(1,3)dioxol-5-yl-2-tert-butyl-3H-imidazol-4-yl)-6-methylpyridine hydrochloride	2	2	0	0	0.0	0.0	366
+C531569	2-amino-3-hydroxypyridine	2	2	0	0	0.0	0.0	367
+C531961	1-(4-(1,1-dimethylheptyl)-2,6-dimethoxyphenyl)-3-methylcyclohexanol	2	2	0	0	0.0	0.0	368
+C533599	24a-homo-1,15-dihydroxyergocalciferol	2	2	0	0	0.0	0.0	369
+C534422	10-(2-pyrazolylethoxy)camptothecin	2	2	0	0	0.0	0.0	370
+C540167	2-(4-(1-(hydroxyimino)-2,3-dihydro-1H-inden-5-yl)-3-(pyridin-4-yl)-1H-pyrazol-1-yl)ethan-1-ol	2	2	0	0	0.0	0.0	371
+C540688	1-(8-bromobenzo(1,2-b;4,5-b')difuran-4-yl)-2-aminopropane	2	2	0	0	0.0	0.0	372
+C548433	1-(acetyloxy)-3,5,6,6a,7,8,9,10-octahydro-10-hydroxy-7,8-dimethyl-7-(3-methylpenta-2,4-dien-1-yl)naphtho(1,8a-c)furan-3,5-diyl dibutanoate	2	2	0	0	0.0	0.0	373
+C554181	2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine	2	2	0	0	0.0	0.0	374
+C554440	1-((5-(1-aminoethyl)-2-(8-methoxy-2-(triflurormethyl)-5-quinolinyl)-4-oxazolyl) carbonyl)-4-((cyclopropylcarbonyl)amino)proline ethyl ester	2	2	0	0	0.0	0.0	375
+C559522	2,3,3'-trichlorobiphenyl	2	1	0	0	0.0	0.0	376
+C562246	1-(4-nitro-2-(trifluoromethyl)phenyl)-4-(3-(trifluoromethyl)phenyl)piperazine	2	2	0	0	0.0	0.0	377
+C562251	24-norcholan-2,3,24-tryl-2,3,23-sulfuric acid	2	2	0	0	0.0	0.0	378
+C581356	2-amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine	2	1	0	0	0.0	0.0	379
+C586414	1-(1-pentyl-1H-indol-3-yl)-2-o-tolylethanone	2	2	0	0	0.0	0.0	380
+C586710	(1-pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone	2	2	0	0	0.0	0.0	381
+C588087	2-(5-(3-chlorophenyl)-6-(4-chlorophenyl)-1-(1-(isopropylsulfonyl)-3-methylbutan-2-yl)-3-methyl-2-oxopiperidin-3-yl)acetic acid	2	2	0	0	0.0	0.0	382
+D015064	16,16-Dimethylprostaglandin E2	2	2	0	0	0.0	0.0	383
+D015632	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	2	2	0	0	0.0	0.0	384
+D019297	2,4-Dinitrophenol	2	2	0	0	0.0	0.0	385
+D019307	1-(5-Isoquinolinesulfonyl)-2-Methylpiperazine	2	2	0	0	0.0	0.0	386
+D019794	2,3-Diphosphoglycerate	2	2	0	0	0.0	0.0	387
+C000592889	1-(4-methylphenyl)propane-2-amine	1	1	0	0	0.0	0.0	388
+C000599362	1-hydroxyalantolactone	1	1	0	0	0.0	0.0	389
+C000608765	2-(4-(nitrophenyl)butan-2-ylamino)-1-(4-methoxyphenyl)ethanol	1	1	0	0	0.0	0.0	390
+C001073	2,4-dinitrobenzenesulfonic acid	1	1	0	0	0.0	0.0	391
+C004726	2-dichlorobenzene	1	1	0	0	0.0	0.0	392
+C005959	2,4-diaminobutyric acid	1	1	0	0	0.0	0.0	393
+C008437	2,2'-methylenebis(4-methyl-6-tert-butylphenol)	1	1	0	0	0.0	0.0	394
+C009135	2,3-dihydroxybenzoic acid	1	1	0	0	0.0	0.0	395
+C009802	2,2',2''-trichlorotriethylamine	1	1	0	0	0.0	0.0	396
+C010914	2,4-diaminotoluene	1	1	0	0	0.0	0.0	397
+C011688	1-bromo-2,4-dinitrobenzene	1	1	0	0	0.0	0.0	398
+C011917	2-heptanone	1	1	0	0	0.0	0.0	399
+C012177	2-aminofluorene	1	1	0	0	0.0	0.0	400
+C012180	2-aminopyrimidine	1	1	0	0	0.0	0.0	401
+C013721	1,24,25-trihydroxyvitamin D3	1	1	0	0	0.0	0.0	402
+C013759	10-(alpha-diethylaminopropionyl)phenothiazine	1	1	0	0	0.0	0.0	403
+C014328	2-amino-4-phenylbutyric acid	1	1	0	0	0.0	0.0	404
+C014513	1,3-diphenylpropane	1	1	0	0	0.0	0.0	405
+C015153	1,2-dilauroylphosphatidylcholine	1	1	0	0	0.0	0.0	406
+C017679	2-hydroxypyridine	1	1	0	0	0.0	0.0	407
+C021183	1,7-dimethylxanthine	1	1	0	0	0.0	0.0	408
+C023353	1,4-cyclohexanedimethanol	1	1	0	0	0.0	0.0	409
+C023891	1,3-dichloro-1-propene	1	1	0	0	0.0	0.0	410
+C024336	1-phenylazo-2-naphthol	1	1	0	0	0.0	0.0	411
+C024348	13-hydroxy-9,11-octadecadienoic acid	1	1	0	0	0.0	0.0	412
+C025968	1-methylnaphthalene	1	1	0	0	0.0	0.0	413
+C028145	2'-deoxythymidylyl-(3'-5')-2'-deoxyadenosine	1	1	0	0	0.0	0.0	414
+C028519	2,6-dimethylnaphthalene	1	1	0	0	0.0	0.0	415
+C029498	2,3-bis(3'-hydroxybenzyl)butane-1,4-diol	1	1	0	0	0.0	0.0	416
+C029639	2-hydroxypropyl methacrylate	1	1	0	0	0.0	0.0	417
+C029705	12-deoxyphorbolphenylacetate-20-acetate	1	1	0	0	0.0	0.0	418
+C029907	2,4'-dichlorobiphenyl	1	1	0	0	0.0	0.0	419
+C030373	2,3-dimethylindole	1	1	0	0	0.0	0.0	420
+C030577	2,2'-methylenebis(ethyl-6-tert-butylphenol)	1	1	0	0	0.0	0.0	421
+C031337	1-chloronaphthalene	1	1	0	0	0.0	0.0	422
+C031338	13-cis-retinal	1	1	0	0	0.0	0.0	423
+C031563	17-N,N-diethylcarbamoyl-4-methyl-4-azaandrostane-3-one	1	1	0	0	0.0	0.0	424
+C031709	2',3'-dideoxyguanosine 5'-triphosphate	1	1	0	0	0.0	0.0	425
+C031969	1,4-dimethylnaphthalene	1	1	0	0	0.0	0.0	426
+C032903	2,3,3',4',6-pentachlorobiphenyl	1	1	0	0	0.0	0.0	427
+C033309	1,6-dinitropyrene	1	1	0	0	0.0	0.0	428
+C034017	2-ethylhexanol	1	1	0	0	0.0	0.0	429
+C034133	2',3',4',5,5'-pentachloro-2-biphenylol	1	1	0	0	0.0	0.0	430
+C034593	2,6-dibromobenzoquinone	1	1	0	0	0.0	0.0	431
+C034890	1,4-dihydroxyanthraquinone	1	1	0	0	0.0	0.0	432
+C035384	1,2-dichloroethylene	1	1	0	0	0.0	0.0	433
+C035577	2,6-dimethyl-1,4-benzoquinone	1	1	0	0	0.0	0.0	434
+C035834	2,3,4,4'5-pentachlorobiphenyl	1	1	0	0	0.0	0.0	435
+C037406	2',3'-dideoxycytidine 5'-triphosphate	1	1	0	0	0.0	0.0	436
+C037413	1,3-dinitropyrene	1	1	0	0	0.0	0.0	437
+C038293	2,3-bis(palmitoyloxy)-2-propyl-N-palmitoyl-cysteinyl-seryl-seryl-asparaginyl-alanine	1	1	0	0	0.0	0.0	438
+C038546	1,2-dihydrostilbene	1	1	0	0	0.0	0.0	439
+C039689	1,4-diaminoanthraquinone	1	1	0	0	0.0	0.0	440
+C040668	2-ethylhexanoic acid	1	1	0	0	0.0	0.0	441
+C042146	1,3-dichlorobenzene	1	1	0	0	0.0	0.0	442
+C042889	2-methyl-1,4-benzoquinone	1	1	0	0	0.0	0.0	443
+C046127	1,25-dihydroxy-26,27-dimethylcholecalciferol	1	1	0	0	0.0	0.0	444
+C046782	14,15-epoxy-5,8,11-eicosatrienoic acid	1	1	0	0	0.0	0.0	445
+C047948	1'-acetoxychavicol acetate	1	1	0	0	0.0	0.0	446
+C048213	2-(4-chlorophenoxy)propionic acid	1	1	0	0	0.0	0.0	447
+C048241	1-(1-naphthyl)piperazine	1	1	0	0	0.0	0.0	448
+C049826	2-methoxyacetaldehyde	1	1	0	0	0.0	0.0	449
+C050232	1,3-ditolylguanidine	1	1	0	0	0.0	0.0	450
+C052102	22,23-dihydroavermectin B(1)a	1	1	0	0	0.0	0.0	451
+C053036	1-methylfluorene	1	1	0	0	0.0	0.0	452
+C053085	1-methylxanthine	1	1	0	0	0.0	0.0	453
+C053486	1,7-phenanthroline	1	1	0	0	0.0	0.0	454
+C054482	2,3',4,4'-tetrachlorobiphenyl	1	1	0	0	0.0	0.0	455
+C058118	2'-deoxyadenosine	1	1	0	0	0.0	0.0	456
+C058194	26-aminocholesterol	1	1	0	0	0.0	0.0	457
+C058684	2,3-dialdehydocellulose	1	1	0	0	0.0	0.0	458
+C060048	2-(4-amylcinnamoyl)amino-4-chlorobenzoic acid	1	1	0	0	0.0	0.0	459
+C060080	2,2-bis(bromomethyl)-1,3-propanediol	1	1	0	0	0.0	0.0	460
+C060229	1-(6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione	1	1	0	0	0.0	0.0	461
+C060533	2-hydroxyamino-1-methyl-6-phenylimidazo(4,5-b)pyridine	1	1	0	0	0.0	0.0	462
+C061208	1-hydroxyanthraquinone	1	1	0	0	0.0	0.0	463
+C062078	1-(carboxymethylthio)tetradecane	1	1	0	0	0.0	0.0	464
+C062397	2-methyl-1,4-hydroquinone	1	1	0	0	0.0	0.0	465
+C066099	2,3-N-octanoylsphingosine	1	1	0	0	0.0	0.0	466
+C069172	2,3-bis(palmitoyloxy)-2-propyl-1-palmitoylcysteine	1	1	0	0	0.0	0.0	467
+C070094	2-aminoadamantane	1	1	0	0	0.0	0.0	468
+C075809	1-stearoyl-2-arachidonoylglycerol	1	1	0	0	0.0	0.0	469
+C078986	1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid	1	1	0	0	0.0	0.0	470
+C079315	2-(4-(quinolin-2-yl-methoxy)phenyl)-2-cyclopentylacetic acid	1	1	0	0	0.0	0.0	471
+C082155	2-methoxynaphthalene	1	1	0	0	0.0	0.0	472
+C084012	1,1-diethyl-2-hydroxy-2-nitrosohydrazine	1	1	0	0	0.0	0.0	473
+C086758	2,4,5-trihydroxyphenylalanine quinone	1	1	0	0	0.0	0.0	474
+C086837	2-chloroacetanilide	1	1	0	0	0.0	0.0	475
+C087630	1,25-dihydroxy-16-ene-vitamin D3	1	1	0	0	0.0	0.0	476
+C087939	2''-galloylhyperin	1	1	0	0	0.0	0.0	477
+C091238	2-isopropylphenol	1	1	0	0	0.0	0.0	478
+C092159	2-methoxypropanol	1	1	0	0	0.0	0.0	479
+C095653	1,5-dihydroxyisoquinoline	1	1	0	0	0.0	0.0	480
+C096118	2-methoxy-1,4-naphthoquinone	1	1	0	0	0.0	0.0	481
+C100973	(1-hydroxy-2-oxo-3-(N-methyl-3-aminopropyl)-3-methyl-3-aminopropyl)-3-methyl-1-triazene	1	1	0	0	0.0	0.0	482
+C101851	2-(((3,5-dichlorophenyl)carbamoyl)oxy)-2-methyl-3-butenoic acid	1	1	0	0	0.0	0.0	483
+C102635	1-ethyl-2-benzimidazolinone	1	1	0	0	0.0	0.0	484
+C102834	2,4,6-trichlorobiphenyl	1	1	0	0	0.0	0.0	485
+C104564	2-(4-acetoxyphenyl)-2-chloro-N-methylethylamine	1	1	0	0	0.0	0.0	486
+C104570	(2-hydroxy-4-(octyloxy)phenyl)phenylmethanone	1	1	0	0	0.0	0.0	487
+C111679	1-(N-(3-ammoniopropyl)-N-(n-propyl)amino)diazen-1-ium-1,2-diolate	1	1	0	0	0.0	0.0	488
+C112297	10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone	1	1	0	0	0.0	0.0	489
+C115284	2-cyano-3-hydroxy-N-(4-(trifluoromethyl)phenyl)-2-hepten-6-ynamide	1	1	0	0	0.0	0.0	490
+C116515	20-hydroximino-4,16-pregnadien-3-one	1	1	0	0	0.0	0.0	491
+C117619	1,2-dimethylnaphthalene	1	1	0	0	0.0	0.0	492
+C120943	2-hydroxymethyl-4,8-dihydrobenzo(1,2-b-5,4-b')dithiophene-48-dione	1	1	0	0	0.0	0.0	493
+C405442	2-methoxyoestrone-3-O-sulphamate	1	1	0	0	0.0	0.0	494
+C406982	1,8-diazafluoren-one	1	1	0	0	0.0	0.0	495
+C408047	1,25(OH)2-16-ene-23-yne-26,27-hexafluoro-19-nor-D3	1	1	0	0	0.0	0.0	496
+C422413	2,2-bis(4-(2,3-dihydroxypropoxy)phenyl)propane	1	1	0	0	0.0	0.0	497
+C425062	(2-boronoethyl)-cysteine	1	1	0	0	0.0	0.0	498
+C432593	2-(1-adamantyl)-4-methylphenol	1	1	0	0	0.0	0.0	499
+C439392	1-(2-methyl-4-methoxyphenyl)-4-((2-hydroxyethyl)amino)-6-trifluoromethoxy-2,3-dihydropyrrolo(3,2-c)quinoline	1	1	0	0	0.0	0.0	500
+C439584	2-(4-hydroxyphenyl)-3-methyl-1-(4-(2-piperidin-1-yl-ethoxy)-benzyl)-1H-indol-5-ol	1	1	0	0	0.0	0.0	501
+C445526	17-benzyl-5-androstane-3,17-diol	1	1	0	0	0.0	0.0	502
+C451261	2,3-bis(2-hydroxyethylsulfanyl)-(1,4)naphthoquinone	1	1	0	0	0.0	0.0	503
+C459092	2-methyl-1-((4-methyl-5-isoquinolinyl)sulfonyl)homopiperazine	1	1	0	0	0.0	0.0	504
+C463040	1-(2,3-dichlorobenzoyl)-5-methoxy-2-methyl-(2-(mopholin-4-yl)ethyl)-1H-indole	1	1	0	0	0.0	0.0	505
+C465253	2-chloro-N6-methyl-(N)-methanocarba-2'-deoxyadenosine-3',5'-bisphosphate	1	1	0	0	0.0	0.0	506
+C466921	1,6-dimethylnaphthalene	1	1	0	0	0.0	0.0	507
+C476036	2-(2-(4-chlorophenyl)ethoxy)adenosine	1	1	0	0	0.0	0.0	508
+C477642	2-(7-(3,4-dimethoxyphenyl)imidazo(1,2-c)pyrimidin-5-ylamino)nicotinamide	1	1	0	0	0.0	0.0	509
+C483839	2,2',3,4,4',5',6-heptabromodiphenyl ether	1	1	0	0	0.0	0.0	510
+C486873	27-hydroxy-4-cholesten-3-one	1	1	0	0	0.0	0.0	511
+C487366	1-O-(2-((2',6'-dichlorophenyl)amino)phenylacetyl)glucopyranuronic acid	1	1	0	0	0.0	0.0	512
+C487404	2-furoyl-LIGRLO-amide	1	1	0	0	0.0	0.0	513
+C488175	2-(acetyloxy)benzoic acid 6-(nitrooxymethyl)-2-phenylmethyl ester	1	1	0	0	0.0	0.0	514
+C488288	2,5,7,8-tetramethyl-2R-(4R,8R,12-trimethyltridecyl)chroman-6-yloxy acetic acid	1	1	0	0	0.0	0.0	515
+C489827	2,3,5,6-tetrafluoro-4-methylbenzyl (Z)-(1RS)-cis-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate	1	1	0	0	0.0	0.0	516
+C489957	1,3-bis(2-hydroxyiminomethylpyridinium)propane	1	1	0	0	0.0	0.0	517
+C489959	1,4-bis(2-hydroxyiminomethylpyridinium)butane	1	1	0	0	0.0	0.0	518
+C492368	1-(alpha,apha-dimethylbenzyl)-3-(4-methylphenyl)urea	1	1	0	0	0.0	0.0	519
+C492600	(2,3,5,6-tetrafluoro-4-methoxymethylphenyl)methyl-2,2-dimethyl-3-(1-propenyl)cyclopropanecarboxylate	1	1	0	0	0.0	0.0	520
+C495109	1-(beta-naphthylmethyl)-6,7-dihydroxy-1,2,3,4-tetra-hydroisoquinoline	1	1	0	0	0.0	0.0	521
+C501339	2-(2,6-diisopropylphenyl)-5-hydroxy-1H-isoindole-1,3-dione	1	1	0	0	0.0	0.0	522
+C511766	2,3,4,5-tetrachlorobiphenyl	1	1	0	0	0.0	0.0	523
+C512626	1,4-benzenedimethanethiol	1	1	0	0	0.0	0.0	524
+C514211	1-(3-(trifluoromethyl)pyridin-2-yl)-N-(4-(trifluoromethylsulfonyl)phenyl)-1,2,3,6-tetrahydropyridine-4-carboxamide	1	1	0	0	0.0	0.0	525
+C514239	20-alpha-dihydrodydrogesterone	1	1	0	0	0.0	0.0	526
+C515196	1,4-bis(4-hydroxyiminomethylpyridinium)butane dibromide	1	1	0	0	0.0	0.0	527
+C516077	2,3-dimethylhydroquinone	1	1	0	0	0.0	0.0	528
+C516412	2,3,6,7-tetrachlorobiphenylene	1	1	0	0	0.0	0.0	529
+C520323	1-oleoyl-2-acetoyl-sn-glycerol	1	1	0	0	0.0	0.0	530
+C520534	2'-hydroxyflavanone	1	1	0	0	0.0	0.0	531
+C521339	1-(4-(benzothiazol-2-yloxy)benzyl)piperidine-4-carboxylic acid	1	1	0	0	0.0	0.0	532
+C522246	1-(3',4'-dichloro-2-fluoro(1,1'-biphenyl)-4-yl)cyclopropanecarboxylic acid	1	1	0	0	0.0	0.0	533
+C522458	2-hydroxy-4-(2,2,3,3,3-pentafluoropropoxy)benzoic acid	1	1	0	0	0.0	0.0	534
+C524212	2,6-dimethylquinoline	1	1	0	0	0.0	0.0	535
+C524606	1-(4-hydroxyiminomethylpyridinium)-3-pyridiniumpropane	1	1	0	0	0.0	0.0	536
+C524733	17-ethynyl-5-androstene-3, 7, 17-triol	1	1	0	0	0.0	0.0	537
+C527832	2-(2-(3,4-dichlorophenyl)-2,3-dihydro-1H-isoindol-5-ylamino)nicotinic acid	1	1	0	0	0.0	0.0	538
+C530803	2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oic acid methyl amide	1	1	0	0	0.0	0.0	539
+C531547	1-((4-(aminocarbonyl)pyridinio)trimethylene)-2-((hydroxyimino)methyl)pyridinium	1	1	0	0	0.0	0.0	540
+C532038	10-(6'-plastoquinonyl)decyltriphenylphosphonium	1	1	0	0	0.0	0.0	541
+C539020	1alpha,20-dihydroxyvitamin D3	1	1	0	0	0.0	0.0	542
+C539142	2-(3,4-dimethoxybenzyl)-7-(1-(1-hydroxyethyl)-4-phenylbutyl)-5-methylimidazo(5,1-f)(1,2,4)triazin-4 (3H)-one	1	1	0	0	0.0	0.0	543
+C539612	2-acetylamino-3-(4-(2-acetylamino-2-carboxyethylsulfanylthiocarbonylamino)phenylthiocarbamoylsulfanyl)propionic acid	1	1	0	0	0.0	0.0	544
+C541132	2,4,4',5-tetrachlorobiphenyl	1	1	0	0	0.0	0.0	545
+C546193	2-(2,6-dimethylmorpholin-4-yl)-N-(5-(6-morpholin-4-yl-4-oxo-4H-pyran-2-yl)-9H-thioxanthen-2-yl)acetamide	1	1	0	0	0.0	0.0	546
+C549914	10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-(1,4)diazepino(5',6'-4,5)thieno(3,2-f)quinolin-8-one	1	1	0	0	0.0	0.0	547
+C550115	2,2,2-tribromoacetaldehyde	1	1	0	0	0.0	0.0	548
+C552103	(2,4-dihydroxy-5-isopropylphenyl)-(5-(4-methylpiperazin-1-ylmethyl)-1,3-dihydroisoindol-2-yl)methanone	1	1	0	0	0.0	0.0	549
+C552398	2,2'-dihydroxychalcone	1	1	0	0	0.0	0.0	550
+C552888	2-(1,3-dimethyl-2,6-dioxo-1,2,3,6-tetrahydro-7H-purin-7-yl)-N-(4-isopropylphenyl)acetamide	1	1	0	0	0.0	0.0	551
+C557741	1-(propoxymethyl)maleimide	1	1	0	0	0.0	0.0	552
+C558395	2-(3-benzoyl)-4-hydroxy-1,1-dioxo-2H-1,2-benzothiazine-2-yl-1-phenylethanone	1	1	0	0	0.0	0.0	553
+C558507	2-methyl-1,3,6-trihydroxy-9,10-anthraquinone-3-O-(6'-O-acetyl)-alpha-rhamnosyl(1-2)-beta-glucoside	1	1	0	0	0.0	0.0	554
+C560297	2-(2-((13-amino-2-(4-hydroxybenzyl)-3,14-dioxo-1,4-diazacyclotetradec-7-ene-5-carboxamido)methyl)phenyl)acetic acid	1	1	0	0	0.0	0.0	555
+C561637	2-(4-fluorophenylsulfonyl)-3-(1-(3-nitrophenylsulfonyl)-1H-pyrrol-2-yl)acrylonitrile	1	1	0	0	0.0	0.0	556
+C570603	2,3-bis(4-nitrophenyl)acrylonitrile	1	1	0	0	0.0	0.0	557
+C570862	2-amino-7-(4-fluoro-2-(6-methoxypyridin-2-yl)phenyl)-4-methyl-7,8-dihydropyrido(4,3-d)pyrimidin-5(6H)-one	1	1	0	0	0.0	0.0	558
+C571782	(1E,4E)-1,5-bis(2-methoxyphenyl)penta-1,4-dien-3-one	1	1	0	0	0.0	0.0	559
+C572052	1-((2-methylbenzofuran-3-yl)methyl)-3-(thiophen-2-ylmethyl)urea	1	1	0	0	0.0	0.0	560
+C572625	2,2',4,5'-tetrabromodiphenyl ether	1	1	0	0	0.0	0.0	561
+C582337	1-(5-fluoropentyl)-3-(1-naphthoyl)indole	1	1	0	0	0.0	0.0	562
+D000077713	17 alpha-Hydroxyprogesterone Caproate	1	1	0	0	0.0	0.0	563
+D015075	2-Aminopurine	1	1	0	0	0.0	0.0	564
+D015762	2-Chloroadenosine	1	1	0	0	0.0	0.0	565
+D019326	17-alpha-Hydroxyprogesterone	1	1	0	0	0.0	0.0	566
+D019813	1,2-Dimethylhydrazine	1	1	0	0	0.0	0.0	567
+D020001	1-Butanol	1	1	0	0	0.0	0.0	568
