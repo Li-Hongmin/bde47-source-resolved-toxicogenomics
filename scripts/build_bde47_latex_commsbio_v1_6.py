@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build native-LaTeX BDE-47 Communications Biology manuscript v1.5."""
+"""Build native-LaTeX BDE-47 Communications Biology manuscript v1.6."""
 
 from __future__ import annotations
 
@@ -20,19 +20,24 @@ from PIL import Image, ImageDraw, ImageFont
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 V08_DIR = REPO_ROOT / "reports" / "bde47_ncs_route_b_manuscript_v0_8_latex"
-OUT_DIR = REPO_ROOT / "reports" / "bde47_commsbio_manuscript_v1_5_latex"
+OUT_DIR = REPO_ROOT / "reports" / "bde47_commsbio_manuscript_v1_6_latex"
 FIG_SRC = V08_DIR / "figures"
 FIG_DIR = OUT_DIR / "figures"
-OUT_TEX = OUT_DIR / "bde47_commsbio_manuscript_and_supplement_v1_5.tex"
-OUT_PDF = OUT_DIR / "bde47_commsbio_manuscript_and_supplement_v1_5.pdf"
-OUT_STATUS = OUT_DIR / "latex_build_status_commsbio_v1_5.json"
+OUT_TEX = OUT_DIR / "bde47_commsbio_manuscript_and_supplement_v1_6.tex"
+OUT_PDF = OUT_DIR / "bde47_commsbio_manuscript_and_supplement_v1_6.pdf"
+OUT_STATUS = OUT_DIR / "latex_build_status_commsbio_v1_6.json"
 OUT_README = OUT_DIR / "README.txt"
-COVER_TEX = OUT_DIR / "communications_biology_cover_letter_v1_5.tex"
-COVER_PDF = OUT_DIR / "communications_biology_cover_letter_v1_5.pdf"
+COVER_TEX = OUT_DIR / "communications_biology_cover_letter_v1_6.tex"
+COVER_PDF = OUT_DIR / "communications_biology_cover_letter_v1_6.pdf"
 V08_TEX = V08_DIR / "bde47_combined_manuscript_and_supplement_v0_8.tex"
 PUBLIC_REPO_URL = "https://github.com/Li-Hongmin/bde47-source-resolved-toxicogenomics"
-PUBLIC_RELEASE_TAG = "v1.0-commsbio-prep"
+PUBLIC_RELEASE_TAG = "v1.0-commsbio"
 PUBLIC_RELEASE_URL = f"{PUBLIC_REPO_URL}/releases/tag/{PUBLIC_RELEASE_TAG}"
+EXOSOME_FC_SRC = Path(
+    "/Volumes/DevWork/AlphaScience_external/contradiction-driven-discovery/"
+    "outputs/supplement_tables/20260523T105644Z/"
+    "31675489_pbde47_ctd_mapped_fold_changes.csv"
+)
 
 FIGURE_FILES = [
     "figure1_evidence_reconstruction.png",
@@ -75,6 +80,45 @@ DOWN = "#C44E52"
 NEUTRAL = "#777777"
 LIGHT = "#E6E6E6"
 INK = "#222222"
+UP = "#55A868"
+
+MODULES = {
+    "AARS1": "translation/metabolism",
+    "MARS1": "translation/metabolism",
+    "YARS1": "translation/metabolism",
+    "GFPT1": "translation/metabolism",
+    "GMPPB": "translation/metabolism",
+    "PGM3": "translation/metabolism",
+    "MX1": "immune/antiviral",
+    "IFIT1": "immune/antiviral",
+    "OAS3": "immune/antiviral",
+    "PARP14": "immune/antiviral",
+    "FCN1": "immune/antiviral",
+    "FCN2": "immune/antiviral",
+    "CDK2": "cell cycle/DNA repair",
+    "PCNA": "cell cycle/DNA repair",
+    "PRKDC": "cell cycle/DNA repair",
+    "SEC24A": "vesicle/sorting",
+    "SEC24D": "vesicle/sorting",
+    "SNX17": "vesicle/sorting",
+    "ARHGEF7": "vesicle/sorting",
+    "WIPI1": "autophagy/stress",
+    "FNIP2": "autophagy/stress",
+    "FIS1": "autophagy/stress",
+    "CASP1": "autophagy/stress",
+    "MMP19": "matrix/signalling",
+    "TGFB1": "matrix/signalling",
+    "ILK": "matrix/signalling",
+    "MMRN1": "matrix/signalling",
+    "VWA5A": "matrix/signalling",
+    "NFKB1": "matrix/signalling",
+    "FUS": "RNA processing",
+    "SNRPA1": "RNA processing",
+    "CYP11A1": "endocrine/metabolism",
+    "LGMN": "proteolysis",
+    "MYO1E": "cytoskeleton",
+    "MGLL": "lipid metabolism",
+}
 
 
 def prepare_package() -> None:
@@ -82,7 +126,6 @@ def prepare_package() -> None:
         shutil.rmtree(OUT_DIR)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     FIG_DIR.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(FIG_SRC / "figure3_exosome_cargo_block.png", FIG_DIR / "figure2_exosome_cargo_block.png")
     for name in COPY_FILES:
         src = V08_DIR / name
         if src.exists():
@@ -99,16 +142,22 @@ def prepare_package() -> None:
         claim_text = claim_text.replace("5 uM, 39 h", "5 µM, 39 h")
         claim_dst.write_text(claim_text)
     redraw_review_figures()
-    retitle_png_figure(
-        FIG_DIR / "figure2_exosome_cargo_block.png",
-        "Figure 2. The largest apparent BDE-47 decrease block is placenta-derived exosomal cargo",
-    )
 
 
 def save_fig(fig: plt.Figure, stem: str) -> None:
     fig.savefig(FIG_DIR / f"{stem}.png", dpi=450, bbox_inches="tight", pad_inches=0.08)
     fig.savefig(FIG_DIR / f"{stem}.pdf", bbox_inches="tight", pad_inches=0.08)
     fig.savefig(FIG_DIR / f"{stem}.svg", bbox_inches="tight", pad_inches=0.08)
+    try:
+        fig.savefig(
+            FIG_DIR / f"{stem}.tiff",
+            dpi=600,
+            bbox_inches="tight",
+            pad_inches=0.08,
+            pil_kwargs={"compression": "tiff_lzw"},
+        )
+    except TypeError:
+        fig.savefig(FIG_DIR / f"{stem}.tiff", dpi=600, bbox_inches="tight", pad_inches=0.08)
     plt.close(fig)
 
 
@@ -142,6 +191,7 @@ def redraw_review_figures() -> None:
     target_qc = pd.read_csv(V08_DIR / "raw_pilot_vs_table_s1_target_qc.tsv", sep="\t")
 
     draw_figure1_commsbio_overview(cluster)
+    draw_figure2_exosome_cargo()
     draw_figure4_compartment(selection, target_qc)
     draw_figure4_mrna_model()
     draw_suppfig1_selection(selection)
@@ -308,6 +358,80 @@ def draw_figure2_ctd(cluster: pd.DataFrame) -> None:
     panel_label(ax3, "c")
     fig.suptitle("Figure 2. CTD sign tension prioritizes BDE-47 for source reconstruction", fontweight="bold")
     save_fig(fig, "figure2_ctd_sign_tension")
+
+
+def draw_figure2_exosome_cargo() -> None:
+    if not EXOSOME_FC_SRC.exists():
+        shutil.copy2(FIG_SRC / "figure3_exosome_cargo_block.png", FIG_DIR / "figure2_exosome_cargo_block.png")
+        retitle_png_figure(
+            FIG_DIR / "figure2_exosome_cargo_block.png",
+            "Figure 2. The largest apparent BDE-47 decrease block is placenta-derived exosomal cargo",
+        )
+        return
+
+    df = pd.read_csv(EXOSOME_FC_SRC)
+    df["pbde47_fold_change"] = pd.to_numeric(df["pbde47_fold_change"], errors="coerce")
+    df["display_fc"] = df["pbde47_fold_change"].where(df["pbde47_fold_change"] > 0, 0.05)
+    df["display_log2fc"] = np.log2(df["display_fc"])
+    df["listed_zero"] = df["pbde47_fold_change"].fillna(0).eq(0)
+    df["module"] = df["gene_symbol"].map(MODULES).fillna("other")
+    df = df.sort_values("display_log2fc", ascending=True).reset_index(drop=True)
+
+    decrease = df[df["supplement_direction"] == "decrease"].copy()
+    counts = decrease["module"].value_counts().sort_values()
+    colors = [UP if d == "increase" else DOWN for d in df["supplement_direction"]]
+
+    fig = plt.figure(figsize=(7.4, 6.15), constrained_layout=True)
+    gs = fig.add_gridspec(2, 2, height_ratios=[2.35, 1.0], width_ratios=[1.45, 1.0])
+    ax1 = fig.add_subplot(gs[:, 0])
+    ax2 = fig.add_subplot(gs[0, 1])
+    ax3 = fig.add_subplot(gs[1, 1])
+
+    y = np.arange(len(df))
+    ax1.barh(y, df["display_log2fc"], color=colors, height=0.78)
+    ax1.axvline(0, color=INK, lw=0.8)
+    zero = df["listed_zero"].to_numpy()
+    if zero.any():
+        ax1.scatter(
+            [-3.72] * int(zero.sum()),
+            y[zero],
+            marker="v",
+            color=INK,
+            s=14,
+            label="listed FC=0",
+            zorder=4,
+        )
+    ax1.set_yticks(y, df["gene_symbol"], fontsize=5.8)
+    ax1.set_xlabel("PBDE47 exosome cargo log2 fold change\n(FC=0 floored only for display)")
+    ax1.set_title("35 CTD-mapped proteins from PMID 31675489")
+    ax1.set_xlim(min(-3.9, float(df["display_log2fc"].min()) - 0.25), max(1.6, float(df["display_log2fc"].max()) + 0.20))
+    if zero.any():
+        ax1.legend(fontsize=6, loc="lower right")
+    panel_label(ax1, "a")
+
+    ax2.barh(np.arange(len(counts)), counts.values, color=SIGNAL)
+    ax2.set_yticks(np.arange(len(counts)), counts.index, fontsize=6.4)
+    ax2.set_xlabel("Proteins in decrease block")
+    ax2.set_title("Functional organization")
+    panel_label(ax2, "b")
+
+    ax3.axis("off")
+    summary_rows = [
+        ("readout", "placenta-derived\nexosomal cargo", SIGNAL),
+        ("CTD-mapped proteins", "35/35 recovered", SIGNAL),
+        ("direction concordance", "35/35", SIGNAL),
+        ("PBDE47 directions", "32 down / 3 up", DOWN),
+        ("per-protein FDR", "not provided", NEUTRAL),
+    ]
+    for i, (k, v, color) in enumerate(summary_rows):
+        yy = 0.88 - i * 0.18
+        ax3.text(0.02, yy, k, fontsize=7.0, color=NEUTRAL, va="center", transform=ax3.transAxes)
+        ax3.text(0.98, yy, v, fontsize=7.0, color=color, va="center", ha="right", fontweight="bold", transform=ax3.transAxes)
+        if i < len(summary_rows) - 1:
+            ax3.plot([0.02, 0.98], [yy - 0.075, yy - 0.075], color=LIGHT, lw=0.8, transform=ax3.transAxes)
+    panel_label(ax3, "c")
+    fig.suptitle("Figure 2. The largest apparent BDE-47 decrease block is placenta-derived exosomal cargo", fontweight="bold")
+    save_fig(fig, "figure2_exosome_cargo_block")
 
 
 def draw_figure4_compartment(selection: pd.DataFrame, target_qc: pd.DataFrame) -> None:
@@ -932,7 +1056,7 @@ We believe this focused evidence-reconstruction study will be of interest to rea
 
 
 def build_readme(now: str) -> str:
-    return f"""# BDE-47 Communications Biology LaTeX manuscript v1.5
+    return f"""# BDE-47 Communications Biology LaTeX manuscript v1.6
 
 Generated: `{now}`
 
@@ -943,12 +1067,12 @@ cover letter is included as LaTeX and PDF.
 
 ## Files
 
-- `bde47_commsbio_manuscript_and_supplement_v1_5.tex`
-- `bde47_commsbio_manuscript_and_supplement_v1_5.pdf`
-- `communications_biology_cover_letter_v1_5.tex`
-- `communications_biology_cover_letter_v1_5.pdf`
+- `bde47_commsbio_manuscript_and_supplement_v1_6.tex`
+- `bde47_commsbio_manuscript_and_supplement_v1_6.pdf`
+- `communications_biology_cover_letter_v1_6.tex`
+- `communications_biology_cover_letter_v1_6.pdf`
 - `figures/`
-- `latex_build_status_commsbio_v1_5.json`
+- `latex_build_status_commsbio_v1_6.json`
 
 ## Public reproducibility route
 
@@ -957,7 +1081,7 @@ cover letter is included as LaTeX and PDF.
 - Release URL: `{PUBLIC_RELEASE_URL}`
 - Zenodo DOI: to be generated from the public release before final journal submission.
 
-## Communications Biology v1.5 changes
+## Communications Biology v1.6 changes
 
 - Abstract now reports `32 decreases and 3 increases`.
 - Section 2.2 states that `PBDE47` is the source supplement treatment label.
@@ -967,6 +1091,7 @@ cover letter is included as LaTeX and PDF.
   Table S1 fold-change construction, DIA-NN target extraction and GSE104896 matching.
 - Figure 3 panel c uses reader-facing evidence-boundary labels, not internal scoring.
 - Supplementary Figure 1 was enlarged for readability.
+- Main and supplementary figures are exported as PNG, PDF, SVG and submission-facing TIFF.
 
 ## Boundary
 
@@ -1041,6 +1166,19 @@ def main() -> int:
                 ]
             ),
             "supp_figures_included": all(f"suppfig{i}_" in tex for i in range(1, 5)),
+            "figure_tiff_exports_present": all(
+                (FIG_DIR / f"{stem}.tiff").exists()
+                for stem in [
+                    "figure1_commsbio_overview",
+                    "figure2_exosome_cargo_block",
+                    "figure3_compartment_contrast",
+                    "figure4_mrna_model",
+                    "suppfig1_selection_tree",
+                    "suppfig2_raw_vs_table_s1",
+                    "suppfig3_cluster_background",
+                    "suppfig4_target_magnitude",
+                ]
+            ),
             "figure4_boundary_retained": "Level 3" in tex
             and "Not reached" in tex
             and "not author-level limma/FDR differential abundance" in tex,

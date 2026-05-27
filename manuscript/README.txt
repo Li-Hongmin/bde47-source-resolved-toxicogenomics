@@ -1,6 +1,6 @@
-# BDE-47 Communications Biology LaTeX manuscript v1.5
+# BDE-47 Communications Biology LaTeX manuscript v1.6
 
-Generated: `2026-05-25T21:31:40.372009+09:00`
+Generated: `2026-05-27T12:09:18.676578+09:00`
 
 This package uses native LaTeX as the source format. It does not use Markdown
 as the manuscript source. The combined PDF contains the main manuscript and
@@ -9,21 +9,21 @@ cover letter is included as LaTeX and PDF.
 
 ## Files
 
-- `bde47_commsbio_manuscript_and_supplement_v1_5.tex`
-- `bde47_commsbio_manuscript_and_supplement_v1_5.pdf`
-- `communications_biology_cover_letter_v1_5.tex`
-- `communications_biology_cover_letter_v1_5.pdf`
+- `bde47_commsbio_manuscript_and_supplement_v1_6.tex`
+- `bde47_commsbio_manuscript_and_supplement_v1_6.pdf`
+- `communications_biology_cover_letter_v1_6.tex`
+- `communications_biology_cover_letter_v1_6.pdf`
 - `figures/`
-- `latex_build_status_commsbio_v1_5.json`
+- `latex_build_status_commsbio_v1_6.json`
 
 ## Public reproducibility route
 
 - GitHub repository: `https://github.com/Li-Hongmin/bde47-source-resolved-toxicogenomics`
-- Release tag used in the manuscript: `v1.0-commsbio-prep`
-- Release URL: `https://github.com/Li-Hongmin/bde47-source-resolved-toxicogenomics/releases/tag/v1.0-commsbio-prep`
+- Release tag used in the manuscript: `v1.0-commsbio`
+- Release URL: `https://github.com/Li-Hongmin/bde47-source-resolved-toxicogenomics/releases/tag/v1.0-commsbio`
 - Zenodo DOI: to be generated from the public release before final journal submission.
 
-## Communications Biology v1.5 changes
+## Communications Biology v1.6 changes
 
 - Abstract now reports `32 decreases and 3 increases`.
 - Section 2.2 states that `PBDE47` is the source supplement treatment label.
@@ -33,6 +33,7 @@ cover letter is included as LaTeX and PDF.
   Table S1 fold-change construction, DIA-NN target extraction and GSE104896 matching.
 - Figure 3 panel c uses reader-facing evidence-boundary labels, not internal scoring.
 - Supplementary Figure 1 was enlarged for readability.
+- Main and supplementary figures are exported as PNG, PDF, SVG and submission-facing TIFF.
 
 ## Boundary
 

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the archived release DOI once minted."
+title: "Source-resolved toxicogenomics reveals compartment-conditioned BDE-47 responses in human placental evidence"
+authors:
+  - family-names: Li
+    given-names: Hongmin
+  - family-names: Bian
+    given-names: Bian
+year: 2026
+repository-code: "https://github.com/Li-Hongmin/bde47-source-resolved-toxicogenomics"
+version: "v1.0-commsbio"
+license: MIT

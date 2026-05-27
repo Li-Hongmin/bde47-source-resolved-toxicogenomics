@@ -1,0 +1,35 @@
+{
+  "title": "Source-resolved toxicogenomics reveals compartment-conditioned BDE-47 responses in human placental evidence",
+  "upload_type": "dataset",
+  "description": "Communications Biology pre-submission reproducibility package for a source-resolved toxicogenomic reconstruction of BDE-47 placental evidence. The package contains the combined LaTeX manuscript and Supplementary Information, cover letter, derived tables, claim-boundary audits, figure source data, publication-quality figure exports and build scripts. Large raw mass-spectrometry files are not mirrored; public raw data remain available from the original repositories cited in the manuscript.",
+  "creators": [
+    {
+      "name": "Li, Hongmin",
+      "affiliation": "AlphaScience Lab; Graduate School of Frontier Sciences, The University of Tokyo"
+    },
+    {
+      "name": "Bian, Bian",
+      "affiliation": "School of System Design and Technology, Tokyo Denki University; Department of Data Science, Kitasato University"
+    }
+  ],
+  "keywords": [
+    "BDE-47",
+    "toxicogenomics",
+    "placenta",
+    "cytotrophoblast",
+    "extracellular vesicles",
+    "exosomes",
+    "CTD",
+    "DIA-NN",
+    "source-resolved evidence"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Li-Hongmin/bde47-source-resolved-toxicogenomics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
