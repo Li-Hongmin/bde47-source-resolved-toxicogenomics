@@ -1,0 +1,9 @@
+metric,value,interpretation
+model,donor_paired_exact_signflip_mean_delta,Exact paired sign-flip test on BDE-47 minus vehicle donor deltas
+background_genes_bh_universe,26932,All mapped GSE104896 genes with selected probes
+ctd_mapped_genes,35,31675489 CTD-mapped genes checked in GSE104896
+exosome_decrease_genes,32,31675489 exosome-cargo decrease block
+exosome_decrease_positive_nonzero_fraction,0.6774193548387096,Positive CTB mRNA paired-model logFC fraction
+ctd_mapped_genes_fdr_lt_0_05,0,CTD-mapped genes passing all-background BH FDR
+exosome_decrease_genes_fdr_lt_0_05,0,Exosome decrease genes passing all-background BH FDR
+background_genes_fdr_lt_0_05,0,All-background genes passing BH FDR

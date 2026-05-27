@@ -51,6 +51,12 @@ Source table used by the v1.6 build:
 /Volumes/DevWork/AlphaScience_external/contradiction-driven-discovery/outputs/supplement_tables/20260523T105644Z/31675489_pbde47_ctd_mapped_fold_changes.csv
 ```
 
+The same source-output table is mirrored in this release at:
+
+```text
+source_data/31675489/31675489_pbde47_ctd_mapped_fold_changes.csv
+```
+
 ## PMID 37385330 Table S1 contrast
 
 Cellular proteome contrasts were computed from positive Table S1 relative
@@ -117,3 +123,18 @@ Matched-background variables:
 
 The gene-level boundary used donor-paired exact sign-flip testing with
 all-background Benjamini-Hochberg FDR.
+
+The GSE104896 source-output files used for manuscript-facing checks are
+mirrored in this release under:
+
+```text
+source_data/GSE104896/
+```
+
+Key files:
+
+- `GSE104896_external_validation.json`
+- `GSE104896_ctb_mrna_validation_rows.csv`
+- `GSE104896_matched_background_permutation.csv`
+- `GSE104896_paired_model_summary.csv`
+- `GSE104896_gene_background_log2_delta.csv`

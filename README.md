@@ -22,6 +22,9 @@ used as a cytotrophoblast mRNA boundary check.
   draft Communications Biology cover letter.
 - `figures/`: submission-facing PNG, PDF, SVG and TIFF figure exports.
 - `tables/`: manuscript-facing derived tables and claim-boundary audits.
+- `source_data/`: audited source-output tables mirrored from the external
+  analysis tree for the 31675489 exosome-cargo extraction and GSE104896 mRNA
+  boundary analysis.
 - `scripts/build_bde47_latex_commsbio_v1_6.py`: manuscript/figure build script.
 - `provenance/latex_build_status_commsbio_v1_6.json`: build validation status.
 - `docs/reproducibility.md`: command-level reproduction notes.
@@ -43,7 +46,7 @@ manuscript.
 
 Large raw mass-spectrometry files are not included in this repository. The
 repository contains derived manuscript-facing tables, claim-boundary audits,
-figure source data and build scripts.
+figure source data, audited source-output tables and build scripts.
 
 ## Rebuild
 
@@ -57,6 +60,17 @@ The release itself is intended as a reproducibility and review package for the
 manuscript-facing outputs, not as a raw-data mirror. See
 `docs/reproducibility.md` for the CTD, Table S1, DIA-NN and GSE104896
 reproducibility details.
+
+## Audited source-output mirrors
+
+The package includes the source-output files needed to check the manuscript's
+two most direct derived claims:
+
+- `source_data/31675489/31675489_pbde47_ctd_mapped_fold_changes.csv`
+  supports the 35/35 CTD-mapped PBDE47 exosome-cargo direction concordance.
+- `source_data/GSE104896/` contains the external mRNA validation JSON, paired
+  model summaries, matched-background permutation outputs and gene-level
+  background table used for the mRNA boundary analysis.
 
 ## Release and DOI status
 

@@ -1,7 +1,7 @@
 {
   "title": "Source-resolved toxicogenomics reveals compartment-conditioned BDE-47 responses in human placental evidence",
   "upload_type": "dataset",
-  "description": "Communications Biology pre-submission reproducibility package for a source-resolved toxicogenomic reconstruction of BDE-47 placental evidence. The package contains the combined LaTeX manuscript and Supplementary Information, cover letter, derived tables, claim-boundary audits, figure source data, publication-quality figure exports and build scripts. Large raw mass-spectrometry files are not mirrored; public raw data remain available from the original repositories cited in the manuscript.",
+  "description": "Communications Biology pre-submission reproducibility package for a source-resolved toxicogenomic reconstruction of BDE-47 placental evidence. The package contains the combined LaTeX manuscript and Supplementary Information, cover letter, derived tables, claim-boundary audits, audited source-output tables, figure source data, publication-quality figure exports and build scripts. Large raw mass-spectrometry files are not mirrored; public raw data remain available from the original repositories cited in the manuscript.",
   "creators": [
     {
       "name": "Li, Hongmin",

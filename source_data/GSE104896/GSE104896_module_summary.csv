@@ -1,0 +1,8 @@
+module,genes,gene_count,ctb_mrna_mean_log2_delta,ctb_mrna_positive_genes,ctb_mrna_negative_genes,ctb_mrna_unchanged_genes
+immune_antiviral_inflammatory,CASP1|IFIT1|MX1|NFKB1|OAS3|PARP14|TGFB1,7,0.12904761904761908,5,2,0
+vesicle_trafficking_sorting,ARHGEF7|ILK|MYO1E|SEC24A|SEC24D|SNX17,6,-0.011388888888888993,3,2,1
+cell_cycle_dna_repair,CDK2|PCNA|PRKDC,3,-0.004444444444444549,2,1,0
+metabolism_translation_glycosylation,AARS1|CYP11A1|GFPT1|GMPPB|MARS1|MGLL|PGM3|YARS1,8,0.06458333333333337,7,1,0
+autophagy_stress_organelle,FIS1|FNIP2|FUS|LGMN|WIPI1,5,0.0586666666666666,3,2,0
+matrix_invasion_signaling,MMP19|VWA5A,2,-0.024166666666666524,1,1,0
+rna_processing,SNRPA1,1,-0.03333333333333351,0,1,0
